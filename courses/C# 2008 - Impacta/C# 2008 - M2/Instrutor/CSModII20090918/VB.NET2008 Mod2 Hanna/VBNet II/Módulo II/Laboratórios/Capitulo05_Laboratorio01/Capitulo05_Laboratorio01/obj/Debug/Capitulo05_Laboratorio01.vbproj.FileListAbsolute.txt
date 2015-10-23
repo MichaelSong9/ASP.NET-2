@@ -1,0 +1,10 @@
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\bin\Debug\Capitulo05_Laboratorio01.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\bin\Debug\Capitulo05_Laboratorio01.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\bin\Debug\Capitulo05_Laboratorio01.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\obj\Debug\Capitulo05_Laboratorio01.cap05_lab01Form.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\obj\Debug\Capitulo05_Laboratorio01.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\obj\Debug\Capitulo05_Laboratorio01.vbproj.GenerateResource.Cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\obj\Debug\Capitulo05_Laboratorio01.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\obj\Debug\Capitulo05_Laboratorio01.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo05_Laboratorio01\Capitulo05_Laboratorio01\obj\Debug\Capitulo05_Laboratorio01.pdb

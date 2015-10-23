@@ -1,0 +1,18 @@
+Classe comum: Pode ser instanciada e/ou Herdada.
+
+Classe Abstrata: Só pode ser herdada, NÃO pode ser instanciada.
+
+Classe Selada: Só pode ser instanciada, NÃO pode ser herdada.
+
+Método comum: Deve ser utilizado pela classe filho da forma como foi construído na classe pai.
+
+Método virtual: Pode ou não ser sobrescrito pela classe filho. Pode ser utilizado em classes comuns ou em classes abstratas, NÃO pode ser utilizado em classes seladas.
+
+Método abstrato: DEVE ser sobrescrito pela classe filho. Só pode ser utilizado em classes abstratas.
+
+Interface: Força a classe a criar métodos e/ou propriedades com as assinaturas definidas na interface.
+
+Sobrecarga de método: O mesmo método possui assinaturas diferentes.Ex. Método Show da MessageBox.
+
+Construtor da classe: Definine valores para propriedades da classe durante a instanciação do  objeto. Ex: classe StreamWriter exige o caminho do arquivo.
+

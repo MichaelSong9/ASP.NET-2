@@ -1,0 +1,15 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\bin\Debug\exemploBancoDeDados.exe.config
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\bin\Debug\exemploBancoDeDados.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\bin\Debug\exemploBancoDeDados.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\bin\Debug\exemploBancoDeDados.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.exemploForm.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploBancoDeDados\exemploBancoDeDados\bin\Debug\exemploBancoDeDados.exe.config
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploBancoDeDados\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploBancoDeDados\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploBancoDeDados\exemploBancoDeDados\obj\Debug\exemploBancoDeDados.pdb

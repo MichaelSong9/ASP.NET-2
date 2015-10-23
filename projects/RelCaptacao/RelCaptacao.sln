@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelCaptacao", "http://localhost/RelCaptacao/RelCaptacao.csproj", "{1598FAC0-589F-4F54-861B-F646ADF6A903}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccProjectUniqueName0 = http://localhost/RelCaptacao/RelCaptacao.csproj
+		SccProjectName0 = \u0022$/Relatorio/RelCaptacao\u0022,\u0020IEBAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice0 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1598FAC0-589F-4F54-861B-F646ADF6A903}.Debug.ActiveCfg = Debug|.NET
+		{1598FAC0-589F-4F54-861B-F646ADF6A903}.Debug.Build.0 = Debug|.NET
+		{1598FAC0-589F-4F54-861B-F646ADF6A903}.Release.ActiveCfg = Release|.NET
+		{1598FAC0-589F-4F54-861B-F646ADF6A903}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

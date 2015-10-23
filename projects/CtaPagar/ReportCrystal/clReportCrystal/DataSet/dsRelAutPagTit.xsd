@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsRelAutPagTit" targetNamespace="http://tempuri.org/dsRelAutPagTit.xsd" xmlns:mstns="http://tempuri.org/dsRelAutPagTit.xsd" xmlns="http://tempuri.org/dsRelAutPagTit.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsRelAutPagTit" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PRC_PAG_REL_AUT_PAG">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CORPO_CGC" type="xs:string" minOccurs="0" />
+              <xs:element name="CODEMP_D" type="xs:string" minOccurs="0" />
+              <xs:element name="NUM_TIT" type="xs:string" minOccurs="0" />
+              <xs:element name="DATA_LIQ" type="xs:string" minOccurs="0" />
+              <xs:element name="NUM_DOCENT" type="xs:string" minOccurs="0" />
+              <xs:element name="RAZAO_SOC" type="xs:string" minOccurs="0" />
+              <xs:element name="DESCR_TIT" type="xs:string" minOccurs="0" />
+              <xs:element name="DESC_SITUA" type="xs:string" minOccurs="0" />
+              <xs:element name="NOMEINDICE" type="xs:string" minOccurs="0" />
+              <xs:element name="DATA_VENC" type="xs:string" minOccurs="0" />
+              <xs:element name="CODBANCO" type="xs:string" minOccurs="0" />
+              <xs:element name="AGENCIA" type="xs:string" minOccurs="0" />
+              <xs:element name="NUM_CONT" type="xs:string" minOccurs="0" />
+              <xs:element name="DV_CONT" type="xs:string" minOccurs="0" />
+              <xs:element name="OBSERV_T" type="xs:string" minOccurs="0" />
+              <xs:element name="VALOR_T" type="xs:string" minOccurs="0" />
+              <xs:element name="ESPECIE" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIE" type="xs:string" minOccurs="0" />
+              <xs:element name="EMISSAO" type="xs:string" minOccurs="0" />
+              <xs:element name="VAL_RATB" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_IR" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_INSS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_ISS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_ICMS" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_SUBSTRIB" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_CSLL" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_ACRLIQ" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_DCRLIQ" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_ACRPAR" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_DCRPAR" type="xs:decimal" minOccurs="0" />
+              <xs:element name="VAL_LIQ" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DATA_LIQ_INI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DATA_LIQ_FIM" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CNPJ_DE" type="xs:string" minOccurs="0" />
+              <xs:element name="CNPJ_ATE" type="xs:string" minOccurs="0" />
+              <xs:element name="CODEMP_D_INI" type="xs:string" minOccurs="0" />
+              <xs:element name="CODEMP_D_FIM" type="xs:string" minOccurs="0" />
+              <xs:element name="EMISSAO_INI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EMISSAO_FIM" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DATA_VENC_INI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="DATA_VENC_FIM" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NUM_TIT_INI" type="xs:string" minOccurs="0" />
+              <xs:element name="NUM_TIT_FIM" type="xs:string" minOccurs="0" />
+              <xs:element name="USUARIO" type="xs:string" minOccurs="0" />
+              <xs:element name="STATUS" type="xs:string" minOccurs="0" />
+              <xs:element name="CGC_COMPL" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,16 @@
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\bin\Debug\Prj_AcessaXML.exe
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\bin\Debug\Prj_AcessaXML.pdb
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.acessaXMLForm.resources
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.Properties.Resources.resources
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.csproj.GenerateResource.Cache
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.exe
+C:\Hanna CSharp 250808\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.pdb
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.exe
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.pdb
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\bin\Debug\Prj_AcessaXML.exe
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\bin\Debug\Prj_AcessaXML.pdb
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\ResolveAssemblyReference.cache
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.acessaXMLForm.resources
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.Properties.Resources.resources
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 250808\Diversos\Prj_AcessaXML\Prj_AcessaXML\obj\Debug\Prj_AcessaXML.csproj.GenerateResource.Cache

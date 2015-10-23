@@ -1,0 +1,51 @@
+Exercícios de fixação
+
+1. Que alternativa atende à expressão "se o valor de x for 10 ou 12 ou o valor de y for 5"
+
+a) if (x>10 && 12 && y=5)
+b) if (x>10 || x>12 || y=5)
+c) if (x>10 || x>12 || y==5)
+d) if (x>10 && x>12 && y==5)
+e) Nenhuma das anteriores
+
+Resposta: C
+
+2. Qual é o comando equivalente a x=x+1?
+
+a) +x=1
+b) x++1
+c) x++
+d) ++1
+e) 1+x
+
+Resposta: C
+
+3. Qual operador permite testar se um número é par?
+
+a) +
+b) =
+c) -
+d) %
+e) ==
+
+Resposta: D
+
+4. Qual é o melhor tipo de variável para armqzenar o nome, a idade e o salário de uma pessoa, respectivamente?
+
+a) string, int, decimal
+b) char, int, decimal
+c) text, long, deciaml,
+d) string, long, decimal
+e) string, string, string
+
+Resposta: A
+
+5. Qual o resultado da expressão 1+1*3-2+2/2-1?
+
+a) 4
+b) 2
+c) 1
+d) 2
+e) 5
+
+Resposta: D

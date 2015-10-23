@@ -1,0 +1,319 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prjCapitulo_02_03
+</name>
+</assembly>
+<members>
+<member name="T:prjCapitulo_02_03.NorthwindDataSet.CategoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CLIENTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomerCustomerDemoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomerDemographicsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.EmployeesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.EmployeeTerritoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.FornecedorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.Order_DetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.OrdersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ProductsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ProdutoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.RegionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ShippersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.SuppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.TerritoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.tESTEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CategoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CLIENTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomerCustomerDemoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomerDemographicsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.EmployeesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.EmployeeTerritoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.FornecedorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.Order_DetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.OrdersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ProductsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ProdutoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.RegionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ShippersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.SuppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.TerritoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.tESTERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CategoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CLIENTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomerCustomerDemoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomerDemographicsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.EmployeesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.EmployeeTerritoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.FornecedorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.Order_DetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.OrdersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ProductsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ProdutoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.RegionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.ShippersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.SuppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.TerritoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet.tESTERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.CategoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.CLIENTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.CustomerCustomerDemoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.CustomerDemographicsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.EmployeesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.EmployeeTerritoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.FornecedorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.Order_DetailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.OrdersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.ProductsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.ProdutoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.RegionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.ShippersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.SuppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TerritoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.tESTETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(prjCapitulo_02_03.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(prjCapitulo_02_03.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(prjCapitulo_02_03.NorthwindDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateAll(prjCapitulo_02_03.NorthwindDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:prjCapitulo_02_03.NorthwindDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

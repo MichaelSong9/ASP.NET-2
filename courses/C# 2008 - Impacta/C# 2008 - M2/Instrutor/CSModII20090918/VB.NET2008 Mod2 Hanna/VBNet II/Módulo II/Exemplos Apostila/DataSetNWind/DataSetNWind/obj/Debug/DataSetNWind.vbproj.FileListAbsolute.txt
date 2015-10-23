@@ -1,0 +1,10 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\obj\Debug\DataSetNWind.exemploForm.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\obj\Debug\DataSetNWind.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\obj\Debug\DataSetNWind.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\bin\Debug\DataSetNWind.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\bin\Debug\DataSetNWind.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\bin\Debug\DataSetNWind.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\obj\Debug\DataSetNWind.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\obj\Debug\DataSetNWind.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\DataSetNWind\obj\Debug\DataSetNWind.pdb

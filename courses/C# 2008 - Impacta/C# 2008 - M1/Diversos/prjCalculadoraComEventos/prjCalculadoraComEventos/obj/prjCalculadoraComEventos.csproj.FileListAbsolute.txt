@@ -1,0 +1,8 @@
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\bin\Debug\prjCalculadoraComEventos.exe
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\bin\Debug\prjCalculadoraComEventos.pdb
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\obj\Debug\prjCalculadoraComEventos.calculadoraForm.resources
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\obj\Debug\prjCalculadoraComEventos.Properties.Resources.resources
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\obj\Debug\prjCalculadoraComEventos.csproj.GenerateResource.Cache
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\obj\Debug\prjCalculadoraComEventos.exe
+C:\Hanna CSharp 24112008\prjCalculadoraComEventos\prjCalculadoraComEventos\obj\Debug\prjCalculadoraComEventos.pdb

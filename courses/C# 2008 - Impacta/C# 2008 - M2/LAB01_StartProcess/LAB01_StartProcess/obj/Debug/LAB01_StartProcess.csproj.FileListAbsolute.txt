@@ -1,0 +1,8 @@
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\bin\Debug\LAB01_StartProcess.exe
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\bin\Debug\LAB01_StartProcess.pdb
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\obj\Debug\LAB01_StartProcess.Form1.resources
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\obj\Debug\LAB01_StartProcess.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\obj\Debug\LAB01_StartProcess.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\obj\Debug\LAB01_StartProcess.exe
+C:\Csharp2008-25-10-2009\LAB01_StartProcess\LAB01_StartProcess\obj\Debug\LAB01_StartProcess.pdb

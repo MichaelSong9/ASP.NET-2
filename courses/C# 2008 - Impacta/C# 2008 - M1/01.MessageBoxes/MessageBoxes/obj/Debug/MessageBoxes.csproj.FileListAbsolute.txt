@@ -1,0 +1,8 @@
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.Properties.Resources.resources
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.csproj.GenerateResource.Cache
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.frmMessageBoxes.resources
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.exe
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\bin\Debug\MessageBoxes.pdb
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.exe
+C:\Documents and Settings\thiago.alves\Desktop\Thiago\MessageBoxes\MessageBoxes\obj\Debug\MessageBoxes.pdb

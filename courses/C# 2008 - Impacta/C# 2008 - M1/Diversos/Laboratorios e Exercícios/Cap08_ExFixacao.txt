@@ -1,0 +1,52 @@
+Exercícios de fixação
+
+1. Quando o destrutor de um objeto é chamado?
+
+a) Quando a variável é criada.
+b) Quando a variável sai do escopo de visibilidade.
+c) Quando garbage collector libera a memória ocupada pelo objeto.
+d) Quando o programador chama dispose().
+e) Um destrutor no .Net nunca é chamado, afinal, o ambiente é gerenciado.
+
+Resposta: C
+
+2. Quais métodos devem ser implantados para uma prooriedade ser "apenas leitura"
+
+a) Apenas get
+b) Apenas set
+c) get e set
+d) get e dispose
+e) aoenas using
+
+Resposta: A
+
+3. Um programador deseja armazenar a idade de um cliente em uma classe mas quer ter certeza de que os dados inseridos fiquem entre 1 e 130. Que estrutura é ideal para implantar essa funcionalidade.
+
+a) Um método
+b) Um campo
+c) Uma propriedade
+d) Um evento
+e) Um indexador
+
+Resposta: C
+
+4. Quando um construtor é chamado?
+
+a) Quando um objeto da classe é declarado
+b) Quando um objeto da classe é instanciado
+c) Quando um método da classe é chamado
+d) Quando um método da classe é declarado
+e) Quando um programa é compilado
+
+Resposta: B
+
+5. Que método deve ser implantado para liberar memória sem esperar pelo garbage collector?
+
+a) Dispose
+b) Finalize
+c) ~
+d) GC.Collect
+e) Application.Exit
+
+Resposta: A
+

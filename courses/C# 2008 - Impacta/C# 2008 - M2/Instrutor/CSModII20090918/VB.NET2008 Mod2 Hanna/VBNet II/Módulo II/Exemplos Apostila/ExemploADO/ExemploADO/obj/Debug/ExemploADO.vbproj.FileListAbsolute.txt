@@ -1,0 +1,20 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\bin\Debug\ExemploADO.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\bin\Debug\ExemploADO.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\bin\Debug\ExemploADO.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\obj\Debug\ExemploADO.exemploForm.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\obj\Debug\ExemploADO.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\obj\Debug\ExemploADO.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\obj\Debug\ExemploADO.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\obj\Debug\ExemploADO.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\ExemploADO\obj\Debug\ExemploADO.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\obj\Debug\ExemploADO.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\obj\Debug\ExemploADO.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\obj\Debug\ExemploADO.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\bin\Debug\ExemploADO.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\bin\Debug\ExemploADO.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\bin\Debug\ExemploADO.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\obj\Debug\ExemploADO.exemploForm.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\obj\Debug\ExemploADO.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploADO\ExemploADO\obj\Debug\ExemploADO.vbproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+C:\Grasso\Loja\Loja.Modelos\bin\Debug\Loja.Modelos.dll
+C:\Grasso\Loja\Loja.Modelos\bin\Debug\Loja.Modelos.pdb
+C:\Grasso\Loja\Loja.Modelos\obj\Debug\ResolveAssemblyReference.cache
+C:\Grasso\Loja\Loja.Modelos\obj\Debug\Loja.Modelos.dll
+C:\Grasso\Loja\Loja.Modelos\obj\Debug\Loja.Modelos.pdb

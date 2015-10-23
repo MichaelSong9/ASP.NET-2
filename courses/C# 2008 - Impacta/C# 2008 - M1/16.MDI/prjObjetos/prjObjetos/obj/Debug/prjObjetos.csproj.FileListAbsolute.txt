@@ -1,0 +1,55 @@
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\Interop.WMPLib.dll
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\AxInterop.WMPLib.dll
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.csproj.ResolveComReference.cache
+C:\CSharp30082009\prjObjetos\prjObjetos\bin\Debug\prjObjetos.exe
+C:\CSharp30082009\prjObjetos\prjObjetos\bin\Debug\prjObjetos.pdb
+C:\CSharp30082009\prjObjetos\prjObjetos\bin\Debug\Interop.WMPLib.dll
+C:\CSharp30082009\prjObjetos\prjObjetos\bin\Debug\AxInterop.WMPLib.dll
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\ResolveAssemblyReference.cache
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.bemVindoForm.resources
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.Properties.Resources.resources
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.videosForm.resources
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.csproj.GenerateResource.Cache
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.exe
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.pdb
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.consumoForm.resources
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.loopsForm.resources
+C:\CSharp30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.exceptionsForm.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\Interop.WMPLib.dll
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\AxInterop.WMPLib.dll
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.csproj.ResolveComReference.cache
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.exe
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.pdb
+C:\CS30082009\prjObjetos\prjObjetos\bin\Debug\prjObjetos.exe
+C:\CS30082009\prjObjetos\prjObjetos\bin\Debug\prjObjetos.pdb
+C:\CS30082009\prjObjetos\prjObjetos\bin\Debug\Interop.WMPLib.dll
+C:\CS30082009\prjObjetos\prjObjetos\bin\Debug\AxInterop.WMPLib.dll
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\ResolveAssemblyReference.cache
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.bemVindoForm.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.consumoForm.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.exceptionsForm.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.loopsForm.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.Properties.Resources.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.videosForm.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.csproj.GenerateResource.Cache
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.menuForm.resources
+C:\CS30082009\prjObjetos\prjObjetos\obj\Debug\prjObjetos.filhoUnicoForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\Interop.WMPLib.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\AxInterop.WMPLib.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.csproj.ResolveComReference.cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.exe
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\bin\Debug\prjObjetos.exe
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\bin\Debug\prjObjetos.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\bin\Debug\Interop.WMPLib.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\bin\Debug\AxInterop.WMPLib.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.bemVindoForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.consumoForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.exceptionsForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.filhoUnicoForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.loopsForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.menuForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.Properties.Resources.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.videosForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjObjetos\prjObjetos\obj\Debug\prjObjetos.csproj.GenerateResource.Cache

@@ -1,0 +1,55 @@
+Exercícios de fixação
+
+1. Qual a sintaxe correta para exibir os números de 10 até 17?
+
+a) for (int x=0;x<10;x++)
+b) for (int x=0;x<10;x--)
+c) for (int x=10;x<10;x--)
+d) for (int x=10;x<=1;x--) 
+e) Nenhuma das anteriores
+
+Resposta: D
+
+2. Que bloco de instrução será usado para fazer um programa que exiba uma mensagem diferente cada dia da semana?
+
+a) while
+b) if
+c) switch
+d) for
+e) do
+
+Resposta: C
+
+3. Se queremos que um bloco de instrução seja executado ao menos 1 vez, qual instrução devemos usar?
+
+a) do...while
+b) do...loop
+c) _for
+d) while
+e) switch
+
+Resposta: A
+
+4. Qual valor de x será exibido na mensagem?
+for (int x = 0; x<10;x++)
+{}
+MessageBox.Show(x.ToString())
+
+a) 11
+b) 10
+c) 1
+d) 9
+e) Nenhuma das anteriores
+
+Resposta: B
+
+5. Qual o melhor comando para usar quando sabemos de antemão quantas vezes queremos executar algo?
+
+a) do...while
+b) do...loop
+c) for
+d) while
+e) switch
+
+Resposta: C
+

@@ -1,0 +1,8 @@
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\bin\Debug\BancoDados.exe
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\bin\Debug\BancoDados.pdb
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\obj\Debug\BancoDados.frmBancoDados.resources
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\obj\Debug\BancoDados.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\obj\Debug\BancoDados.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\obj\Debug\BancoDados.exe
+C:\Csharp2008-25-10-2009\BancoDados\BancoDados\obj\Debug\BancoDados.pdb

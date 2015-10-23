@@ -1,0 +1,6 @@
+1;jatoba;4.78;150;Fruta
+2;seriguela;3.46;36;Fruta
+3;Margarina;4.89;67;Laticinios
+4;Leite;6.43;49;Laticinios
+5;DVD Player;346;123;Eletro Eletronicos
+5;Game Player;248;115;Eletro Eletronicos

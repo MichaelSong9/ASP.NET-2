@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+   <siteMapNode title="Menu">
+     <siteMapNode url="Recebimento_Creme/Rel_RecCreme.aspx"  title="Creme"  description="Recebimento de Creme"/>
+     <siteMapNode url="Inspecao_Federal/Rel_InspFed.aspx"  title="Inspeção Federal"  description="Inspeção Federal"/>
+     <siteMapNode url="Recebimento_LeiteDesnatado/Rel_RecLeiteDes.aspx"  title="Leite Desnatado"  description="Leite Desnatado"/>
+     <siteMapNode url="Recebimento_NF/Rel_RecNF.aspx"  title="Nota Fiscal"  description="Nota Fiscal"/>
+     <siteMapNode url="Recebimento_Remetente/Rel_RecRemetente.aspx" title ="Remetente" description ="Recebimento por Remetente"/>
+     <siteMapNode url="Recebimento_SIF/Rel_RecSIF.aspx"  title="SIF"  description="Recebimento por SIF"/>
+     <siteMapNode url="Recebimento_Teor/Rel_RecTeor.aspx"  title="Teor"  description="Teor"/>
+     <siteMapNode url="Recebimento_TipoRemetente/Rel_RecTipoRemetente.aspx" title ="Tipo de Remetente" description ="Recebimento por Tipo Remetente"/>
+     <siteMapNode url="Exclusao_De_Movimento/Exclusao_De_Movimento.aspx" title="Exclusão de Movimento" description="Exclusão de Movimento"/>
+   </siteMapNode>
+</siteMap>

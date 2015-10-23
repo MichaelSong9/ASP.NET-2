@@ -1,0 +1,2 @@
+Persist Security Info=True;User ID=dcf;Password=dcf;Unicode=True
+Data Source=CCLSQL;Initial Catalog=intranet;Persist Security Info=True;User ID=intranet;Password=lilian

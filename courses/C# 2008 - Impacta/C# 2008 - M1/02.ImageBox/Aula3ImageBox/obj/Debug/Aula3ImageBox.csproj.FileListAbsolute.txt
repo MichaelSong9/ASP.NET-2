@@ -1,0 +1,10 @@
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\bin\Debug\Aula3ImageBox.exe
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\bin\Debug\Aula3ImageBox.pdb
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\obj\Debug\Aula3ImageBox.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\obj\Debug\Aula3ImageBox.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\obj\Debug\Aula3ImageBox.exe
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\obj\Debug\Aula3ImageBox.pdb
+C:\[ CSharp-30-08-09 ]\Thiago\Aula3ImageBox\Aula3ImageBox\obj\Debug\Aula3ImageBox.frmImageBox.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\02.ImageBox\Aula3ImageBox\obj\Debug\Aula3ImageBox.exe
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\02.ImageBox\Aula3ImageBox\obj\Debug\Aula3ImageBox.pdb

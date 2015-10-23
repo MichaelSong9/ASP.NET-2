@@ -1,0 +1,16 @@
+C:\rodrigo_castro_csharp_2008_11_24\color\color\bin\Debug\color.exe
+C:\rodrigo_castro_csharp_2008_11_24\color\color\bin\Debug\color.pdb
+C:\rodrigo_castro_csharp_2008_11_24\color\color\obj\Debug\ResolveAssemblyReference.cache
+C:\rodrigo_castro_csharp_2008_11_24\color\color\obj\Debug\color.Form1.resources
+C:\rodrigo_castro_csharp_2008_11_24\color\color\obj\Debug\color.Properties.Resources.resources
+C:\rodrigo_castro_csharp_2008_11_24\color\color\obj\Debug\color.csproj.GenerateResource.Cache
+C:\rodrigo_castro_csharp_2008_11_24\color\color\obj\Debug\color.exe
+C:\rodrigo_castro_csharp_2008_11_24\color\color\obj\Debug\color.pdb
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\obj\Debug\color.exe
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\obj\Debug\color.pdb
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\bin\Debug\color.exe
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\obj\Debug\ResolveAssemblyReference.cache
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\obj\Debug\color.Form1.resources
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\obj\Debug\color.Properties.Resources.resources
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\obj\Debug\color.csproj.GenerateResource.Cache
+X:\Paulista12B\Noturno\Instrutor\Hanna CSharp 24112008\Diversos\prjCoresCSharp\color\bin\Debug\color.pdb

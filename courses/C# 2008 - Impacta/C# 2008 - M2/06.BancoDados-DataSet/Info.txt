@@ -1,0 +1,19 @@
+Acesso a banco de dados
+
+Lista Generica
+* List<objeto>
+* Melhor e mais eficaz método
+
+Datatable
+* Se não precisar saber das outras colunas e for algo simples é uma boa opção
+* Não precisa instanciar a classe diversas vezes
+* Perfomance menor
+* Opção: criar uma classe com as informações, gerar uma lista e jogar em um DataTable
+
+DataSet
+* Conjunto de DataTables
+
+DataSet Tipado
+* Pior metodo: perca de performance
+* Utilizado quando vc precisa de um DataSet com as colunas pré definidas
+* "Arrastar e soltar"

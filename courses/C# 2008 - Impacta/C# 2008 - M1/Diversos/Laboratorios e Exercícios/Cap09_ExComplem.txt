@@ -1,0 +1,41 @@
+Exercícios Complementares
+
+1. Escreva  declaração de um evento em uma classe que utilize o delegate padrão do .NET FrameWork para tratamento de eventos.
+Resposta: 
+class teste
+{
+	public event System.EventHandler meuMetodo;
+}
+
+2. Em relação aos eventos, qual é a classe chamada Editor e a classe chamada assinante 
+Resposta: Editor é a classe que disponibiliza um evento e Assinante é a classe que utiliza (se inscreve) em um evento.
+
+3. Quais são as duas maneiras de chamar um método através de uma variável Delegate
+Resposta: Por meio da chamada direta passando parâmetros(), ou por meio do método Invoke.
+
+4. Em qual namespace encontram-se classes para criar coleções generics
+Resposta: System.Colletions.Generics
+
+5. Escreva a declaração e instanciação de uma coleção List<t> com tipos string.
+Reposta: List<string> minhaLista = new List<strng>()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

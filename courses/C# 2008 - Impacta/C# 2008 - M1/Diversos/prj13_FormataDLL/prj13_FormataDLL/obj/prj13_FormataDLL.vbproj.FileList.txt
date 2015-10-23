@@ -1,0 +1,9 @@
+bin\Release\prj13_FormataDLL.dll
+bin\Release\prj13_FormataDLL.pdb
+bin\Release\prj13_FormataDLL.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\prj13_FormataDLL.Resources.resources
+obj\Release\prj13_FormataDLL.vbproj.GenerateResource.Cache
+obj\Release\prj13_FormataDLL.dll
+obj\Release\prj13_FormataDLL.xml
+obj\Release\prj13_FormataDLL.pdb

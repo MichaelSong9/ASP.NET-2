@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CaixaDeTexto
+</name>
+</assembly>
+<members>
+<member name="P:CaixaDeTexto.CaixaDeTexto.Texto">
+	<summary>
+ Lê e escreve o texto na TextBox
+ </summary>
+</member>
+</members>
+</doc>

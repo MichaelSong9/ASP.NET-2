@@ -1,0 +1,20 @@
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\ResolveAssemblyReference.cache
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.Form1.resources
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.Resources.resources
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.vbproj.GenerateResource.Cache
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\bin\Debug\prjLINQtoSQL.exe
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\bin\Debug\prjLINQtoSQL.pdb
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\bin\Debug\prjLINQtoSQL.xml
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.exe
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.xml
+G:\VB NET II - Acesso a Dados\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.pdb
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.exe
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.xml
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.pdb
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\bin\Debug\prjLINQtoSQL.exe
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\bin\Debug\prjLINQtoSQL.pdb
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\bin\Debug\prjLINQtoSQL.xml
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.Resources.resources
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.vbproj.GenerateResource.Cache
+C:\Hanna VBNet II 03082009\Projetos\prjLINQtoSQL\prjLINQtoSQL\obj\Debug\prjLINQtoSQL.linqForm.resources

@@ -1,0 +1,5 @@
+            string comAcentos = 
+                "ְֱֲֳִהאבגדָֹֻÊכטיךּֽֿ־ןלםמײׂ׃װױצעףפץÜÙÚÛüשתûַחׁס";
+            
+            string semAcentos = 
+                "AAAAAaaaaaEEEEeeeeIIIIiiiiOOOOOoooooUUUUuuuuCcNn";

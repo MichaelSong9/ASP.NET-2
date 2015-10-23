@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.exe
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\bin\Debug\GarbageCollector.pdb
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.frmGarbageCollector.resources
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.exe
+C:\[ CSharp-30-08-09 ]\15.GarbageCollector\GarbageCollector\obj\Debug\GarbageCollector.pdb

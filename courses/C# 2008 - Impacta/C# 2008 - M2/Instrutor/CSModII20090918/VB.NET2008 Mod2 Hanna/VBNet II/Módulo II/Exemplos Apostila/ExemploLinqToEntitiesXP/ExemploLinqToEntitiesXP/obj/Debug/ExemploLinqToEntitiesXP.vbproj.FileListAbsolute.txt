@@ -1,0 +1,11 @@
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\bin\Debug\ExemploLinqToEntitiesXP.exe.config
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\bin\Debug\ExemploLinqToEntitiesXP.exe
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\bin\Debug\ExemploLinqToEntitiesXP.pdb
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\bin\Debug\ExemploLinqToEntitiesXP.xml
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\obj\Debug\ResolveAssemblyReference.cache
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\obj\Debug\ExemploLinqToEntitiesXP.exemploForm.resources
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\obj\Debug\ExemploLinqToEntitiesXP.Resources.resources
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\obj\Debug\ExemploLinqToEntitiesXP.vbproj.GenerateResource.Cache
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\obj\Debug\ExemploLinqToEntitiesXP.exe
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\obj\Debug\ExemploLinqToEntitiesXP.xml
+F:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\ExemploLinqToEntitiesXP\ExemploLinqToEntitiesXP\obj\Debug\ExemploLinqToEntitiesXP.pdb

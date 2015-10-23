@@ -1,0 +1,16 @@
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\bin\Debug\prjOficina.exe
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\bin\Debug\prjOficina.pdb
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.oficinaForm.resources
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.Properties.Resources.resources
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.csproj.GenerateResource.Cache
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.exe
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\bin\Debug\prjOficina.exe
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\bin\Debug\prjOficina.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\obj\Debug\prjOficina.oficinaForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\obj\Debug\prjOficina.Properties.Resources.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\obj\Debug\prjOficina.csproj.GenerateResource.Cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\obj\Debug\prjOficina.exe
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M1\16.MDI\prjOficina\prjOficina\obj\Debug\prjOficina.pdb

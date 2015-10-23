@@ -1,0 +1,1123 @@
+﻿.BOTOES_CALENDARIO_INSP_FED
+{
+	left: 10px; 
+	position: relative; 
+	vertical-align: middle;
+}
+
+.VALIDADOR_INSP_FED
+{
+	position:   absolute; 
+	Width:11px;
+	vertical-align: middle;
+	left: 360px;
+	margin-top: 08px;
+}
+
+.BOTOES_CALENDARIO_CREME
+{
+	left: 10px; 
+	position: relative; 
+	vertical-align: middle;
+}
+
+.VALIDADOR_CREME
+{
+	position:   absolute; 
+	Width:11px;
+	vertical-align: middle;
+	left: 360px;
+	margin-top: 08px;
+}
+
+/* posição do layer da barra de botoes do corpo da pagina: incluir, salvar, excluir etc */
+.DIV_BOTOES_BODY
+
+{
+	BORDER-RIGHT: window thin solid; 
+	BORDER-TOP: window thin solid; 
+	Z-INDEX: 101; 
+	LEFT: -16px; 
+	BORDER-LEFT: window thin solid;
+	MARGIN-LEFT: 310px; 
+	WIDTH: 405px; 
+	BORDER-BOTTOM: window thin solid; 
+	POSITION: relative; 
+	TOP: 470px; 
+	HEIGHT: 30px; 
+	BACKGROUND-COLOR: #b5c7de;
+	filter: alpha(opacity:70);
+	opacity:0.7;
+}
+
+/* posição do layer da barra de menus: login, home e ajuda */
+.DIV_BOTOES_HEADER
+{
+	Z-INDEX: 107;
+	LEFT: 915px; 
+	WIDTH: 89px; 
+	POSITION: absolute; 
+	TOP: 106px; 
+	HEIGHT: 20px;
+	Z-INDEX: 106;
+}
+
+/* formatação da div de data */
+.DIV_DATA
+{
+	MARGIN-TOP: 0px;
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	LEFT: 55px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 5px; 
+	VERTICAL-ALIGN: top; 
+	WIDTH: 5%; 
+	PADDING-TOP: 5px; 
+	POSITION: absolute; 
+	TOP: 103px;
+	HEIGHT: 1px;
+	Z-INDEX: 103;
+}
+
+.div_Filial
+{
+	Z-INDEX: 111; 
+	LEFT: 332px; 
+	WIDTH: 389px;
+	POSITION: absolute; 
+	TOP: 73px; 
+	HEIGHT: 14px
+}
+
+/* formatação da div de hora */
+.DIV_HORA
+{
+	MARGIN-TOP: 0px;
+	PADDING-TOP: 5px; 
+	LEFT: 174px; 
+	WIDTH: 8%; 
+	POSITION: absolute; 
+	TOP: 103px; 
+	HEIGHT: 1px;
+	Z-INDEX: 101;
+	VERTICAL-ALIGN: top; 
+}
+
+/* formatação do layer da data */
+.DIV_LABEL_DATA
+{
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	LEFT: 16px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 5px; 
+	VERTICAL-ALIGN: top; 
+	WIDTH: 1%; 
+	PADDING-TOP: 5px; 
+	POSITION: absolute; 
+	TOP: 103px; 
+	HEIGHT: 1px;
+	Z-INDEX: 107; 
+}
+
+/* formatação do label da Hora */
+.DIV_LABEL_HORA
+{
+	PADDING-RIGHT: 5px; 
+	MARGIN-TOP: 0px; 
+	PADDING-LEFT: 5px; 
+	LEFT: 128px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 5px; 
+	VERTICAL-ALIGN: top; 
+	WIDTH: 1%; 
+	PADDING-TOP: 5px; 
+	POSITION: absolute; 
+	TOP: 90px; 
+	HEIGHT: 1px;
+	Z-INDEX: 101;
+}
+
+/* propriedades da div que contem informações do login, banco de dados e empresa */
+.DIV_OPTLOGIN
+{
+	Z-INDEX: 107;
+	LEFT: 347px;
+	WIDTH: 567px; 
+	POSITION: absolute; 
+	TOP: 108px; 
+	HEIGHT: 12px;
+}
+
+
+/* posição do logotipo */
+/* Corrigido */
+.DIV_LOGO
+{
+	z-index: 101;
+	left: 28px;
+	background-image: url(Imagens/logo_CCL1024x768.gif);
+	width: 188px;
+	position: absolute;
+	top: 30px;
+	height: 56px;
+	background-position: center center;
+}
+
+/* formatação da barra de menus */
+.DIV_MENU
+{
+	BACKGROUND-COLOR: #DAE5F9;
+	WIDTH: 99%;
+	HEIGHT: 30px;
+	border-right: lightslategray thin solid;
+	BORDER-LEFT: lightslategray thin solid; 
+	BORDER-BOTTOM: lightslategray thin solid
+}
+
+/* barra de menus de opções */
+.DIV_MENUBAR
+{
+	Z-INDEX: 102; 
+	LEFT: 14px; 
+	WIDTH: 235px; 
+	POSITION: absolute; 
+	TOP: 119px; 
+	HEIGHT: 30px;
+	Z-INDEX: 105;
+}
+
+/* estilo das paginas dentro da masterpage */
+.DIV_PAGES
+{
+	width: 99%;
+	height: 510px;
+	color: navy;
+	border-right: white thin inset;
+	border-top: white thin inset;
+	border-left: white thin inset;
+	border-bottom: white thin inset;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+/* rodapé da pagina */
+.DIV_RODAPE
+{
+ VERTICAL-ALIGN: middle;
+ WIDTH: 100%; 
+ HEIGHT: 10px; 
+ BACKGROUND-COLOR: #ff3366; 
+ TEXT-ALIGN: center
+}
+
+.DIV_USUARIO
+{
+	BORDER-LEFT-COLOR: gray; 
+	BORDER-BOTTOM-COLOR: gray; 
+	WIDTH: 99%; 
+	BORDER-TOP-STYLE: solid; 
+	BORDER-TOP-COLOR: gray; 
+	BORDER-RIGHT-STYLE: solid; 
+	BORDER-LEFT-STYLE: solid; 
+	HEIGHT: 99%; 
+	BORDER-RIGHT-COLOR: gray; 
+	BORDER-BOTTOM-STYLE: solid
+}
+
+.DROPDOWN_PAGES
+{
+	font-weight: bold;
+	font-size: small;
+	vertical-align: middle;
+	color: navy;
+	font-family: Verdana, Monospace;
+	z-index: 100;
+}
+
+/* usado no menu de data e hora */
+/*Corrigido*/
+.LABEL_MENU
+{
+	font-weight: bolder;
+	font-size: xx-small;
+	font-family: 'Arial Black';
+	color: navy;
+	height: 5px;
+	text-align: left;
+	left: 1px;
+}
+
+/* usado no menu de usuario,filial*/
+/*Corrigido*/
+.LABEL_MENU_UF
+{
+	font-size: small;
+	font-family: Arial;	
+	color: AppWorkspace;
+	height: 14px;
+	width:50px;
+	text-align: left;
+	left: 1px;
+}
+
+/* usado no menu de banco de dados */
+/*Corrigido*/
+.LABEL_MENU_BD
+{
+	font-size: small;
+	font-family: Arial;	
+	color: AppWorkspace;
+	height: 14px;
+	width:115px;
+	text-align: left;
+	left: 1px;
+}
+
+/* usado no menu de Login */
+.LABEL_MENU_LOGIN
+{
+	font-size: small;
+	font-family: Arial;
+	color: #0000C0;
+	height: 14px;
+	width:71px;
+	text-align: left;
+	left: 1px;
+}
+
+/* usado no menu de Filial */
+.LABEL_MENU_FILIAL
+{
+	font-size: small;
+	font-family: Arial;
+	color: #0000C0;
+	height: 14px;
+	width:71px;
+	text-align: left;
+	left: 1px;
+}
+
+/* usado no menu de Filial */
+.LABEL_MENU_BCODADOS
+{
+	font-size: small;
+	font-family: Arial;
+	color: #0000C0;
+	height: 14px;
+	width:71px;
+	text-align: left;
+	left: 1px;
+}
+
+/* formatação dos labels */
+.LABEL_PAGES
+{
+	font-weight: bold;
+	font-size: small;
+	vertical-align: middle;
+	color: navy;
+	font-family: Verdana, Monospace;
+	text-align:  right;
+	padding-right: 5px;
+	margin: 10px;
+}
+
+/* estilo do label do nome do sistema */
+/* Corrigigo*/
+.LABEL_TITULO
+{
+	width: 720px;
+	font-weight:bold;
+	font-style:italic;	
+	font-family: 'Century Gothic';
+	font-size:  xx-large;
+	color:#507CD1;
+    vertical-align: middle; 
+    text-align: center;
+    position: absolute; 
+    left: 190px; 
+    top: 35px;
+}	
+
+/* Calendario Geral */
+.MyCalendar .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 1000;
+    position: absolute;
+}
+
+.MyCalendar .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Inspeção Federal com Mudança de Posição */
+/* Inicio */
+.MyCalendar_inspfed_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 460px !important;
+    top: 20px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_inspfed_de .ajax__calendar iframe
+{
+    left: 460px !important;
+    top: 20px !important;
+}
+
+.MyCalendar_inspfed_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_inspfed_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_inspfed_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_inspfed_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_inspfed_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_inspfed_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_inspfed_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_inspfed_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Inspeção Federal com Mudança de Posição */
+.MyCalendar_inspfed_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 460px !important;
+    top: 20px !important;
+    visibility: visible; display: block;
+}
+
+/* Muda Posicao do Calendario*/
+.MyCalendar_inspfed_ate .ajax__calendar iframe
+{
+    left: 460px !important;
+    top: 20px !important;
+}
+
+.MyCalendar_inspfed_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_inspfed_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_inspfed_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_inspfed_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_inspfed_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_inspfed_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_inspfed_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_inspfed_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario Inspeção Federal com Mudança de Posição */
+/* Fim */
+
+/* Calendario Creme com Mudança de Posição */
+/* Inicio */
+.MyCalendar_creme_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 350px !important;
+    top: 28px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_creme_de .ajax__calendar iframe
+{
+    left: 350px !important;
+    top: 28px !important;
+}
+
+.MyCalendar_creme_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_creme_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_creme_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_creme_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_creme_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_creme_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_creme_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_creme_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Creme com Mudança de Posição */
+.MyCalendar_creme_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 350px !important;
+    top: 28px !important;
+    visibility: visible; display: block;
+}
+
+/* Muda Posicao do Calendario*/
+.MyCalendar_creme_ate .ajax__calendar iframe
+{
+    left: 350px !important;
+    top: 28px !important;
+}
+
+.MyCalendar_creme_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_creme_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_creme_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_creme_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_creme_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_creme_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_creme_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_creme_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario Creme com Mudança de Posição */
+/* Fim */
+
+
+/* Calendario Leite Desnatadado com Mudança de Posição */
+/* Inicio */
+.MyCalendar_leides_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 512px !important;
+    top: 220px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_leides_de .ajax__calendar iframe
+{
+    left: 512px !important;
+    top: 220px !important;
+}
+
+.MyCalendar_leides_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_leides_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_leides_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_leides_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_leides_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_leides_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_leides_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_leides_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Leite Desnatadado com Mudança de Posição */
+.MyCalendar_leides_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 512px !important;
+    top: 220px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_leides_ate .ajax__calendar iframe
+{
+    left: 512px !important;
+    top: 220px !important;
+}
+
+.MyCalendar_leides_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_leides_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_leides_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_leides_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_leides_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_leides_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_leides_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_leides_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario Leite Desnatadado com Mudança de Posição */
+/* Fim */
+
+
+/* Calendario Recebimento de Nota Fiscal com Mudança de Posição */
+.MyCalendar_recnf_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 582px !important;
+    top: 165px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_recnf_de .ajax__calendar iframe
+{
+    left: 582px !important;
+    top: 165px !important;
+}
+
+.MyCalendar_recnf_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_recnf_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_recnf_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_recnf_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_recnf_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_recnf_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_recnf_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_recnf_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Recebimento de Nota Fiscal com Mudança de Posição */
+.MyCalendar_recnf_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 582px !important;
+    top: 165px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_recnf_ate .ajax__calendar iframe
+{
+    left: 582px !important;
+    top: 165px !important;
+}
+
+.MyCalendar_recnf_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_recnf_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_recnf_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_recnf_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_recnf_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_recnf_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_recnf_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_recnf_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario Recebimento de Nota Fiscal com Mudança de Posição */
+/* Fim */
+
+/* Calendario Remetente com Mudança de Posição */
+/* Inicio */
+.MyCalendar_remetente_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 460px !important;
+    top: 38px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_remetente_de .ajax__calendar iframe
+{
+    left: 460px !important;
+    top: 38px !important;
+}
+
+.MyCalendar_remetente_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_remetente_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_remetente_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_remetente_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_remetente_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_remetente_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_remetente_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_remetente_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Remetente com Mudança de Posição */
+.MyCalendar_remetente_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 460px !important;
+    top: 38px !important;
+    visibility: visible; display: block;
+}
+
+/* Muda Posicao do Calendario*/
+.MyCalendar_remetente_ate .ajax__calendar iframe
+{
+    left: 460px !important;
+    top: 38px !important;
+}
+
+.MyCalendar_remetente_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_remetente_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_remetente_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_remetente_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_remetente_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_remetente_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_remetente_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_remetente_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario Remetente com Mudança de Posição */
+/* Fim */
+
+/* Calendario SIF com Mudança de Posição */
+/* Inicio */
+.MyCalendar_sif_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 470px !important;
+    top: 120px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_sif_de .ajax__calendar iframe
+{
+    left: 470px !important;
+    top: 120px !important;
+}
+
+.MyCalendar_sif_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_sif_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_sif_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_sif_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_sif_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_sif_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_sif_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_sif_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario SIF com Mudança de Posição */
+.MyCalendar_sif_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 470px !important;
+    top: 120px !important;
+    visibility: visible; display: block;
+}
+
+/* Muda Posicao do Calendario*/
+.MyCalendar_sif_ate .ajax__calendar iframe
+{
+    left: 470px !important;
+    top: 120px !important;
+}
+
+.MyCalendar_sif_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_sif_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_sif_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_sif_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_sif_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_sif_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_sif_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_sif_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario SIF com Mudança de Posição */
+/* Fim */
+
+/* Calendario Teor com Mudança de Posição */
+/* Inicio */
+.MyCalendar_teor_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 470px !important;
+    top: 120px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_teor_de .ajax__calendar iframe
+{
+    left: 470px !important;
+    top: 120px !important;
+}
+
+.MyCalendar_teor_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_teor_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_teor_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_teor_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_teor_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_teor_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_teor_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_teor_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Teor com Mudança de Posição */
+.MyCalendar_teor_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 470px !important;
+    top: 120px !important;
+    visibility: visible; display: block;
+}
+
+/* Muda Posicao do Calendario*/
+.MyCalendar_teor_ate .ajax__calendar iframe
+{
+    left: 470px !important;
+    top: 120px !important;
+}
+
+.MyCalendar_teor_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_teor_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_teor_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_teor_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_teor_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_teor_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_teor_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_teor_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario Teor com Mudança de Posição */
+/* Fim */
+
+/* Calendario Tipo de Remetente com Mudança de Posição */
+/* Inicio */
+.MyCalendar_tiporem_de .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: lemonchiffon;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 470px !important;
+    top: 90px !important;
+    visibility: visible; display: block;
+}
+/* Muda Posicao do Calendario*/
+.MyCalendar_tiporem_de .ajax__calendar iframe
+{
+    left: 470px !important;
+    top: 90px !important;
+}
+
+.MyCalendar_tiporem_de .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_tiporem_de .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_tiporem_de .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_tiporem_de .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_tiporem_de .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_tiporem_de .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_tiporem_de .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_tiporem_de .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+
+/* Calendario Tipo de Remetente com Mudança de Posição */
+.MyCalendar_tiporem_ate .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color:  #5EBAC7;
+    color: red;
+    z-index: 101;
+/* Muda Posicao do Calendario*/
+    left: 470px !important;
+    top: 90px !important;
+    visibility: visible; display: block;
+}
+
+/* Muda Posicao do Calendario*/
+.MyCalendar_tiporem_ate .ajax__calendar iframe
+{
+    left: 470px !important;
+    top: 90px !important;
+}
+
+.MyCalendar_tiporem_ate .ajax__calendar_other .ajax__calendar_day,
+.MyCalendar_tiporem_ate .ajax__calendar_other .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_tiporem_ate .ajax__calendar_hover .ajax__calendar_day,
+.MyCalendar_tiporem_ate .ajax__calendar_hover .ajax__calendar_month,
+.MyCalendar_tiporem_ate .ajax__calendar_hover .ajax__calendar_year {
+    color: black;
+}
+.MyCalendar_tiporem_ate .ajax__calendar_active .ajax__calendar_day,
+.MyCalendar_tiporem_ate .ajax__calendar_active .ajax__calendar_month,
+.MyCalendar_tiporem_ate .ajax__calendar_active .ajax__calendar_year {
+    color: black;
+    font-weight:bold;
+}
+/* Calendario Tipo de Remetente com Mudança de Posição */
+/* Fim */
+
+.PANEL_FORM_INSP_FED
+{
+	position: absolute;
+	left: 300px; 
+	height:201px;
+	top: 232px;
+	Width:347px;
+	z-index:101;
+}
+
+.PANEL_FORM_CREME
+{
+	position: absolute;
+	left: 343px; 
+	height:201px;
+	top: 232px;
+	Width:233px;
+	z-index:101;	
+}
+
+.PANEL_FORM_LEIDES
+{
+	position: absolute;
+	left: 170px; 
+	height:201px;
+	top: 176px;
+	Width:480px;
+	z-index:101;
+}
+
+.PANEL_FORM_RECNF
+{
+	position: absolute;
+	left: 195px; 
+	top: 170px;
+	WIDTH: 575px;
+	HEIGHT: 350px;
+	z-index:101;
+}
+
+.PANEL_FORM_REMETENTE
+{
+	position: absolute;
+	left: 290px; 
+	top: 170px;
+	WIDTH: 347px;
+	HEIGHT: 201px;
+	z-index:101;
+}
+
+.PANEL_FORM_SIF
+{
+	position: absolute;
+	left: 290px; 
+	top: 170px;
+	WIDTH: 347px;
+	HEIGHT: 201px;
+	z-index:101;
+}
+
+.PANEL_FORM_TEOR
+{
+	position: absolute;
+	left: 290px; 
+	top: 170px;
+	WIDTH: 347px;
+	HEIGHT: 180px;
+	z-index:101;
+}
+
+.PANEL_FORM_TIPOREM
+{
+	position: absolute;
+	left: 290px; 
+	top: 170px;
+	WIDTH: 347px;
+	HEIGHT: 180px;
+	z-index:101;
+}
+
+/* corpo da pagina, que traz o copo como fundo  */
+.TDBODY
+{
+	BACKGROUND-POSITION: center center; 
+	BACKGROUND-IMAGE: url(Imagens/background_Copo.gif);
+	WIDTH: 99%; 
+	HEIGHT: 510px
+}
+
+
+/* formatação do cabeçalho */
+.TDHEADER
+{
+	BACKGROUND-IMAGE: url(Imagens/banner_CCL.gif);
+	WIDTH: 99%;
+	HEIGHT: 90px;
+}
+
+/* formatação dos textboxes */
+.TEXT_PAGES
+{
+	font-weight: bold;
+	font-size: small;
+	vertical-align: middle;
+	color: navy;
+	font-family: Verdana, Monospace;
+	text-align: left;
+	padding-right: 5px;
+	margin: 3px;
+}
+
+/* formatação da div onde está o label da filial */
+
+.TD_BOTOES_BODY
+
+{
+	BORDER-RIGHT: window thin solid; 
+	BORDER-TOP: window thin solid; 
+	Z-INDEX: 101; 
+	LEFT: -16px; 
+	BORDER-LEFT: window thin solid;
+	MARGIN-LEFT: 310px; 
+	WIDTH: 405px; 
+	BORDER-BOTTOM: window thin solid; 
+	POSITION: relative; 
+	TOP: 450px;
+	HEIGHT: 30px; 
+	BACKGROUND-COLOR: #b5c7de;
+	filter: alpha(opacity:70);
+	opacity:0.7;
+}
+
+.TD_BOTOES_BODY_RECNF
+
+{
+	BORDER-RIGHT: window thin solid; 
+	BORDER-TOP: window thin solid; 
+	Z-INDEX: 101; 
+	LEFT: -16px; 
+	BORDER-LEFT: window thin solid;
+	MARGIN-LEFT: 310px; 
+	WIDTH: 405px; 
+	BORDER-BOTTOM: window thin solid; 
+	POSITION: relative; 
+	TOP: 450px; 
+	HEIGHT: 30px; 
+	BACKGROUND-COLOR: #b5c7de;
+	filter: alpha(opacity:70);
+	opacity:0.7;
+}
+
+.TD_FORM
+{
+	BORDER-RIGHT: silver thin inset; 
+	BORDER-TOP: silver thin inset; 
+	BORDER-LEFT: silver thin inset; 
+	BORDER-BOTTOM: silver thin inset;
+	BACKGROUND-COLOR: #b5c7de;
+	filter: alpha(opacity:70);
+	opacity:0.7;
+}
+
+.DIV_RODAPE
+{
+ VERTICAL-ALIGN: middle;
+ WIDTH: 100%; 
+ HEIGHT: 10px; 
+ BACKGROUND-COLOR: #dae5f9;
+ TEXT-ALIGN: center;
+ COLOR: gray; 
+}
+
+/* formatação da barra de menus onde está o horario*/
+.DIV_MENU_INICIO
+{
+	BACKGROUND-COLOR: #e0dfdf;
+	WIDTH: 99%;
+    HEIGHT: 16px;
+}

@@ -1,0 +1,14 @@
+C:\Grasso\Loja\Loja.DAL\bin\Debug\Loja.DAL.dll
+C:\Grasso\Loja\Loja.DAL\bin\Debug\Loja.DAL.pdb
+C:\Grasso\Loja\Loja.DAL\bin\Debug\Loja.Modelos.dll
+C:\Grasso\Loja\Loja.DAL\bin\Debug\Loja.Modelos.pdb
+C:\Grasso\Loja\Loja.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Grasso\Loja\Loja.DAL\obj\Debug\Loja.DAL.dll
+C:\Grasso\Loja\Loja.DAL\obj\Debug\Loja.DAL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.DAL\bin\Debug\Loja.DAL.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.DAL\bin\Debug\Loja.DAL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.DAL\bin\Debug\Loja.Modelos.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.DAL\bin\Debug\Loja.Modelos.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.DAL\obj\Debug\Loja.DAL.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.DAL\obj\Debug\Loja.DAL.pdb

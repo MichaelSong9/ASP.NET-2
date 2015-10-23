@@ -1,0 +1,23 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register Src="cabecalho.ascx" TagName="cabecalho" TagPrefix="uc1" %>
+<%@ Register Src="Menu.ascx" TagName="Menu" TagPrefix="uc2" %>
+<%@ Register Src="rodape.ascx" TagName="rodape" TagPrefix="uc3" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <uc1:cabecalho ID="Cabecalho1" runat="server" />
+        <uc2:Menu ID="Menu1" runat="server" />
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        </asp:contentplaceholder>
+        <uc3:rodape ID="Rodape1" runat="server" />
+    </div>
+    </form>
+</body>
+</html>

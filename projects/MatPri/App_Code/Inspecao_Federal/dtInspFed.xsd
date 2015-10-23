@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtInspFed" targetNamespace="http://tempuri.org/dtInspFed.xsd" xmlns:mstns="http://tempuri.org/dtInspFed.xsd" xmlns="http://tempuri.org/dtInspFed.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=cf_teste;Persist Security Info=True;User ID=mppcp;Password=mppcp;Unicode=True" IsAppSettingsProperty="False" Modifier="Assembly" Name="cf_teste.MPPCP" Provider="System.Data.OracleClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MPPCPTableAdapter" Name="MPPCP">
+            <MainSource>
+              <DbSource ConnectionRef="cf_teste.MPPCP" DbObjectName="MPPCP.MPPCP" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="False">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT CODLOC FROM MPPCP</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtInspFed" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MPPCP">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RecB" type="xs:int" minOccurs="0" />
+              <xs:element name="DescB" type="xs:int" minOccurs="0" />
+              <xs:element name="DesnatB" type="xs:int" minOccurs="0" />
+              <xs:element name="IndustB" type="xs:int" minOccurs="0" />
+              <xs:element name="RaloB" type="xs:int" minOccurs="0" />
+              <xs:element name="RecC" type="xs:int" minOccurs="0" />
+              <xs:element name="DesnatC" type="xs:int" minOccurs="0" />
+              <xs:element name="IndustC" type="xs:int" minOccurs="0" />
+              <xs:element name="RaloC" type="xs:int" minOccurs="0" />
+              <xs:element name="Localizacao" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:length value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remetente" type="xs:int" minOccurs="0" />
+              <xs:element name="TipoDocumento" type="xs:int" minOccurs="0" />
+              <xs:element name="DATAINICIAL" type="xs:string" minOccurs="0" />
+              <xs:element name="DATAFINAL" type="xs:string" minOccurs="0" />
+              <xs:element name="DATAREC" type="xs:string" minOccurs="0" />
+              <xs:element name="DescC" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,10 @@
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\bin\Debug\CAP8-Componentes.exe
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\bin\Debug\CAP8-Componentes.pdb
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\bin\Debug\Sistema.dll
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\bin\Debug\Sistema.pdb
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\obj\Debug\CAP8_Componentes.Form1.resources
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\obj\Debug\CAP8_Componentes.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\obj\Debug\CAP8-Componentes.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\obj\Debug\CAP8-Componentes.exe
+C:\Csharp2008-25-10-2009\CAP8-Componentes\CAP8-Componentes\obj\Debug\CAP8-Componentes.pdb

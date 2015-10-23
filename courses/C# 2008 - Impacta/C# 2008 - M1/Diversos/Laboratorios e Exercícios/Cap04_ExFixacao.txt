@@ -1,0 +1,51 @@
+Exercícios de fixação
+
+1. Qual são os dois grandes grupos de variáveis com os quais o .NetFrameWork trabalha?
+
+a) Por referência e por valor
+b) Strings e Datas
+c) Públicas e Ocultas
+d) Textos e números
+e) Objetos e Instâncias
+
+Resposta: A
+
+2. Qual é a declaração correta para que a variável nome seja acessada apenas na class em que ela foi declarada?
+
+a) public nome
+b) protected nome
+c) interval nome
+d) private nome 
+e) static nome
+
+Resposta: D
+
+3. Qual o recurso do .Net FrameWork permite escrever uma classe em vários arquivos?
+
+a) Classes Static
+b) Classes Públicas
+c) Classes Privadas
+d) Classes Parciais
+e) Classes Genéricas
+
+Resposta: D
+
+4. Para que utilizamos um enumerador?
+
+a) Para armazenar números
+b) Para ordenar valores
+c) Para armazenar números relacionados a palavras
+d) Para armazenar objetos
+e) Para armazenar strings
+
+Resposta: C
+
+5. Como chamamos a variável que instancia uma classe?
+
+a) pública
+b) abstrata
+c) objeto
+d) interface
+e) static
+
+Resposta: C

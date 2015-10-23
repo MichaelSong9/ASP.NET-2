@@ -1,0 +1,8 @@
+bin\Debug\Cap03_lab1.exe
+bin\Debug\Cap03_lab1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cap03_lab1.Properties.Resources.resources
+obj\Debug\Cap03_lab1.csproj.GenerateResource.Cache
+obj\Debug\Cap03_lab1.exe
+obj\Debug\Cap03_lab1.pdb
+obj\Debug\Cap03_lab1.calculaFreteForm.resources

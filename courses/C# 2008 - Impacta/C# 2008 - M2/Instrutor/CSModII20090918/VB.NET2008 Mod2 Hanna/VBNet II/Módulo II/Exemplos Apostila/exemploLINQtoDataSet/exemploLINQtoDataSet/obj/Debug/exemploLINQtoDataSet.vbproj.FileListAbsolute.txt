@@ -1,0 +1,10 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\bin\Debug\exemploLINQtoDataSet.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\bin\Debug\exemploLINQtoDataSet.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\bin\Debug\exemploLINQtoDataSet.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\obj\Debug\exemploLINQtoDataSet.exemploForm.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\obj\Debug\exemploLINQtoDataSet.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\obj\Debug\exemploLINQtoDataSet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\obj\Debug\exemploLINQtoDataSet.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\obj\Debug\exemploLINQtoDataSet.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQtoDataSet\obj\Debug\exemploLINQtoDataSet.pdb

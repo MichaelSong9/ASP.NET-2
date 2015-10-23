@@ -1,0 +1,12 @@
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\bin\Debug\prjCPF.exe
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\bin\Debug\prjCPF.pdb
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\obj\Debug\prjCPF.cpfForm.resources
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\obj\Debug\prjCPF.Properties.Resources.resources
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\obj\Debug\prjCPF.csproj.GenerateResource.Cache
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\obj\Debug\prjCPF.exe
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\obj\Debug\prjCPF.pdb
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\bin\Debug\prjBotao.dll
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\bin\Debug\prjBotao.pdb
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\bin\Debug\prjValidaCPF.dll
+C:\Hanna CSharp 24112008\prjCPF\prjCPF\bin\Debug\prjValidaCPF.pdb

@@ -1,0 +1,8 @@
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\bin\Debug\ExExtraAula02Ramais.exe
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\bin\Debug\ExExtraAula02Ramais.pdb
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\obj\Debug\ResolveAssemblyReference.cache
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\obj\Debug\ExExtraAula02Ramais.ramaisForm.resources
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\obj\Debug\ExExtraAula02Ramais.Properties.Resources.resources
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\obj\Debug\ExExtraAula02Ramais.csproj.GenerateResource.Cache
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\obj\Debug\ExExtraAula02Ramais.exe
+C:\CSModuloII20090918\ExExtraAula02Ramais\ExExtraAula02Ramais\obj\Debug\ExExtraAula02Ramais.pdb

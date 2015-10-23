@@ -1,0 +1,13 @@
+C:\CS25102009\Lab01Cap01\Lab01Cap01\bin\Debug\Lab01Cap01.exe
+C:\CS25102009\Lab01Cap01\Lab01Cap01\bin\Debug\Lab01Cap01.pdb
+C:\CS25102009\Lab01Cap01\Lab01Cap01\obj\Debug\ResolveAssemblyReference.cache
+C:\CS25102009\Lab01Cap01\Lab01Cap01\obj\Debug\Lab01Cap01.csproj.ResolveComReference.cache
+C:\CS25102009\Lab01Cap01\Lab01Cap01\obj\Debug\Lab01Cap01.Form1.resources
+C:\CS25102009\Lab01Cap01\Lab01Cap01\obj\Debug\Lab01Cap01.Properties.Resources.resources
+C:\CS25102009\Lab01Cap01\Lab01Cap01\obj\Debug\Lab01Cap01.csproj.GenerateResource.Cache
+C:\CS25102009\Lab01Cap01\Lab01Cap01\obj\Debug\Lab01Cap01.exe
+C:\CS25102009\Lab01Cap01\Lab01Cap01\obj\Debug\Lab01Cap01.pdb
+C:\CS25102009\Lab01Cap01\Lab01Cap01\bin\Debug\Interop.Excel.dll
+C:\CS25102009\Lab01Cap01\Lab01Cap01\bin\Debug\Interop.Office.dll
+C:\CS25102009\Lab01Cap01\Lab01Cap01\bin\Debug\Interop.VBIDE.dll
+C:\CS25102009\Lab01Cap01\Lab01Cap01\bin\Debug\Interop.Microsoft.Office.Core.dll

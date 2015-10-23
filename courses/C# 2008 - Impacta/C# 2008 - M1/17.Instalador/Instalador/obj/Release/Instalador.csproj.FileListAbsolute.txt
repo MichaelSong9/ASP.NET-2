@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\bin\Release\Instalador.exe
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\bin\Release\Instalador.pdb
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\obj\Release\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\obj\Release\Instalador.frmConteudo.resources
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\obj\Release\Instalador.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\obj\Release\Instalador.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\obj\Release\Instalador.exe
+C:\[ CSharp-30-08-09 ]\17.Instalador\Instalador\obj\Release\Instalador.pdb

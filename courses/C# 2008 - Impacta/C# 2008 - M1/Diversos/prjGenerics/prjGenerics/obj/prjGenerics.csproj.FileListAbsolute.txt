@@ -1,0 +1,8 @@
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\bin\Debug\prjGenerics.exe
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\bin\Debug\prjGenerics.pdb
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\obj\Debug\prjGenerics.genericsForm.resources
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\obj\Debug\prjGenerics.Properties.Resources.resources
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\obj\Debug\prjGenerics.csproj.GenerateResource.Cache
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\obj\Debug\prjGenerics.exe
+C:\Hanna CSharp 250808\prjGenerics\prjGenerics\obj\Debug\prjGenerics.pdb

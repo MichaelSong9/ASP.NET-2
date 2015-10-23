@@ -1,0 +1,61 @@
+Exercícios Complementares
+
+1. Escreva um construtor para uma classe chamada Cliente que inicialize um campo público chamadao Cidade do tipo string com o valor São Paulo
+Resposta: 
+class Cliente
+{
+	public string Cidade;
+	public Cliente()
+	{
+		this.Cidade="São Paulo";
+	}
+}
+
+
+2. Mude a classe adiante para que o campo ValorDoEstoque seja uma propriedade somente leitura que retorne o Preço*Estoque.
+class Produto
+{
+	public decimal Preco;
+	public int Estoque;
+	public decimal ValorEstoque;
+}
+Resposta: 
+class Produto
+{
+	public decimal Preco;
+	public int Estoque;
+	public decimal ValorEstoque
+	{
+		get{return Estoque*Preco;}
+	}
+}
+
+3. Por que uma propriedade é mais versátil do que um campo? Cite um exemplo.
+Resposta: Porque em uma propriedade é possível controlar, via programação, a gravação e leitura dos dados de uma classe, e nos campos isto não é possível. Por exemplo, em uma propriedade chamada "Email" é possível definir que a leitura de seu conteúdo sempre será em letras minúsculas, não importando como ele foi gravado. Em um campo isso não é possível.
+
+4. Qual interface deve ser implantada em uma classe para liberar memória?
+Resposta:IDisposable
+
+5. Qual classe concede acesso ao garbage collector? Qual é o namespace dessa classe?
+Reposta: System.GC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

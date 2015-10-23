@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RelAdi" targetNamespace="http://tempuri.org/RelAdi.xsd" xmlns:mstns="http://tempuri.org/RelAdi.xsd" xmlns="http://tempuri.org/RelAdi.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ConnectionStringOleDb" IsAppSettingsProperty="True" Modifier="Assembly" Name="ConnectionStringOleDb (Web.config)" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ConnectionStringOleDb.ConnectionString" Provider="System.Data.OleDb">
+          </Connection>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="ConnectionStringDt" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="ConnectionStringDt (Web.config)" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.ConnectionStringDt.ConnectionString" Provider="System.Data.OracleClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MPPCPTableAdapter" GeneratorDataComponentClassName="MPPCPTableAdapter" Name="MPPCP" UserDataComponentName="MPPCPTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionStringDt (Web.config)" DbObjectName="MPPCP.MPPCP" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="False" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT     CODLOC, CODREM, SIGREM, TIPREM, COTDIA, COTANU, CODPOS, CODFRO, PAGSEP, SIGPOS, NOMPOS, DATAREC, NUMDOC, TIPDOC, NUMNFR, 
+                      QTDNF1, QTDNF2, CODCOM, TIPOMP, TIPDES, QTDMPR, TEORMG, QTDGOR
+FROM         MPPCP</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CODLOC" DataSetColumn="CODLOC" />
+              <Mapping SourceColumn="CODREM" DataSetColumn="CODREM" />
+              <Mapping SourceColumn="SIGREM" DataSetColumn="SIGREM" />
+              <Mapping SourceColumn="TIPREM" DataSetColumn="TIPREM" />
+              <Mapping SourceColumn="COTDIA" DataSetColumn="COTDIA" />
+              <Mapping SourceColumn="COTANU" DataSetColumn="COTANU" />
+              <Mapping SourceColumn="CODPOS" DataSetColumn="CODPOS" />
+              <Mapping SourceColumn="CODFRO" DataSetColumn="CODFRO" />
+              <Mapping SourceColumn="PAGSEP" DataSetColumn="PAGSEP" />
+              <Mapping SourceColumn="SIGPOS" DataSetColumn="SIGPOS" />
+              <Mapping SourceColumn="NOMPOS" DataSetColumn="NOMPOS" />
+              <Mapping SourceColumn="DATAREC" DataSetColumn="DATAREC" />
+              <Mapping SourceColumn="NUMDOC" DataSetColumn="NUMDOC" />
+              <Mapping SourceColumn="TIPDOC" DataSetColumn="TIPDOC" />
+              <Mapping SourceColumn="NUMNFR" DataSetColumn="NUMNFR" />
+              <Mapping SourceColumn="QTDNF1" DataSetColumn="QTDNF1" />
+              <Mapping SourceColumn="QTDNF2" DataSetColumn="QTDNF2" />
+              <Mapping SourceColumn="CODCOM" DataSetColumn="CODCOM" />
+              <Mapping SourceColumn="TIPOMP" DataSetColumn="TIPOMP" />
+              <Mapping SourceColumn="TIPDES" DataSetColumn="TIPDES" />
+              <Mapping SourceColumn="QTDMPR" DataSetColumn="QTDMPR" />
+              <Mapping SourceColumn="TEORMG" DataSetColumn="TEORMG" />
+              <Mapping SourceColumn="QTDGOR" DataSetColumn="QTDGOR" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RelAdi" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="RelAdi" msprop:Generator_DataSetName="RelAdi">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PR_ADI_SEL_COMIGO" msprop:Generator_UserTableName="PR_ADI_SEL_COMIGO" msprop:Generator_RowDeletedName="PR_ADI_SEL_COMIGORowDeleted" msprop:Generator_RowChangedName="PR_ADI_SEL_COMIGORowChanged" msprop:Generator_RowClassName="PR_ADI_SEL_COMIGORow" msprop:Generator_RowChangingName="PR_ADI_SEL_COMIGORowChanging" msprop:Generator_RowEvArgName="PR_ADI_SEL_COMIGORowChangeEvent" msprop:Generator_RowEvHandlerName="PR_ADI_SEL_COMIGORowChangeEventHandler" msprop:Generator_TableClassName="PR_ADI_SEL_COMIGODataTable" msprop:Generator_TableVarName="tablePR_ADI_SEL_COMIGO" msprop:Generator_RowDeletingName="PR_ADI_SEL_COMIGORowDeleting" msprop:Generator_TablePropName="PR_ADI_SEL_COMIGO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODREM" msprop:Generator_UserColumnName="CODREM" msprop:Generator_ColumnVarNameInTable="columnCODREM" msprop:Generator_ColumnPropNameInRow="CODREM" msprop:Generator_ColumnPropNameInTable="CODREMColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DATAREC" msprop:Generator_UserColumnName="DATAREC" msprop:Generator_ColumnVarNameInTable="columnDATAREC" msprop:Generator_ColumnPropNameInRow="DATAREC" msprop:Generator_ColumnPropNameInTable="DATARECColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CODLOC" msprop:Generator_UserColumnName="CODLOC" msprop:Generator_ColumnVarNameInTable="columnCODLOC" msprop:Generator_ColumnPropNameInRow="CODLOC" msprop:Generator_ColumnPropNameInTable="CODLOCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NUMNFR" msprop:Generator_UserColumnName="NUMNFR" msprop:Generator_ColumnVarNameInTable="columnNUMNFR" msprop:Generator_ColumnPropNameInRow="NUMNFR" msprop:Generator_ColumnPropNameInTable="NUMNFRColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NUMDOC" msprop:Generator_UserColumnName="NUMDOC" msprop:Generator_ColumnVarNameInTable="columnNUMDOC" msprop:Generator_ColumnPropNameInRow="NUMDOC" msprop:Generator_ColumnPropNameInTable="NUMDOCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CODCOM" msprop:Generator_UserColumnName="CODCOM" msprop:Generator_ColumnVarNameInTable="columnCODCOM" msprop:Generator_ColumnPropNameInRow="CODCOM" msprop:Generator_ColumnPropNameInTable="CODCOMColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TIPOMP" msprop:Generator_UserColumnName="TIPOMP" msprop:Generator_ColumnVarNameInTable="columnTIPOMP" msprop:Generator_ColumnPropNameInRow="TIPOMP" msprop:Generator_ColumnPropNameInTable="TIPOMPColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTDMPR" msprop:Generator_UserColumnName="QTDMPR" msprop:Generator_ColumnVarNameInTable="columnQTDMPR" msprop:Generator_ColumnPropNameInRow="QTDMPR" msprop:Generator_ColumnPropNameInTable="QTDMPRColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TEORMG" msprop:Generator_UserColumnName="TEORMG" msprop:Generator_ColumnVarNameInTable="columnTEORMG" msprop:Generator_ColumnPropNameInRow="TEORMG" msprop:Generator_ColumnPropNameInTable="TEORMGColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PR_ADI_SEL_COMIGO1" msprop:Generator_UserTableName="PR_ADI_SEL_COMIGO1" msprop:Generator_RowDeletedName="PR_ADI_SEL_COMIGO1RowDeleted" msprop:Generator_RowChangedName="PR_ADI_SEL_COMIGO1RowChanged" msprop:Generator_RowClassName="PR_ADI_SEL_COMIGO1Row" msprop:Generator_RowChangingName="PR_ADI_SEL_COMIGO1RowChanging" msprop:Generator_RowEvArgName="PR_ADI_SEL_COMIGO1RowChangeEvent" msprop:Generator_RowEvHandlerName="PR_ADI_SEL_COMIGO1RowChangeEventHandler" msprop:Generator_TableClassName="PR_ADI_SEL_COMIGO1DataTable" msprop:Generator_TableVarName="tablePR_ADI_SEL_COMIGO1" msprop:Generator_RowDeletingName="PR_ADI_SEL_COMIGO1RowDeleting" msprop:Generator_TablePropName="PR_ADI_SEL_COMIGO1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODREM" msprop:Generator_UserColumnName="CODREM" msprop:Generator_ColumnVarNameInTable="columnCODREM" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="CODREM" msprop:Generator_ColumnPropNameInTable="CODREMColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DATAREC" msprop:Generator_UserColumnName="DATAREC" msprop:Generator_ColumnVarNameInTable="columnDATAREC" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="DATAREC" msprop:Generator_ColumnPropNameInTable="DATARECColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CODLOC" msprop:Generator_UserColumnName="CODLOC" msprop:Generator_ColumnVarNameInTable="columnCODLOC" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="CODLOC" msprop:Generator_ColumnPropNameInTable="CODLOCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NUMNFR" msprop:Generator_UserColumnName="NUMNFR" msprop:Generator_ColumnVarNameInTable="columnNUMNFR" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="NUMNFR" msprop:Generator_ColumnPropNameInTable="NUMNFRColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="NUMDOC" msprop:Generator_UserColumnName="NUMDOC" msprop:Generator_ColumnVarNameInTable="columnNUMDOC" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="NUMDOC" msprop:Generator_ColumnPropNameInTable="NUMDOCColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CODCOM" msprop:Generator_UserColumnName="CODCOM" msprop:Generator_ColumnVarNameInTable="columnCODCOM" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="CODCOM" msprop:Generator_ColumnPropNameInTable="CODCOMColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TIPOMP" msprop:Generator_UserColumnName="TIPOMP" msprop:Generator_ColumnVarNameInTable="columnTIPOMP" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="TIPOMP" msprop:Generator_ColumnPropNameInTable="TIPOMPColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="QTDMPR" msprop:Generator_UserColumnName="QTDMPR" msprop:Generator_ColumnVarNameInTable="columnQTDMPR" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="QTDMPR" msprop:Generator_ColumnPropNameInTable="QTDMPRColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TEORMG" msprop:Generator_UserColumnName="TEORMG" msprop:Generator_ColumnVarNameInTable="columnTEORMG" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="TEORMG" msprop:Generator_ColumnPropNameInTable="TEORMGColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dtperiodoI" msprop:Generator_UserColumnName="dtperiodoI" msprop:Generator_ColumnVarNameInTable="columndtperiodoI" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="dtperiodoI" msprop:Generator_ColumnPropNameInTable="dtperiodoIColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="dtperiodoF" msprop:Generator_UserColumnName="dtperiodoF" msprop:Generator_ColumnVarNameInTable="columndtperiodoF" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="dtperiodoF" msprop:Generator_ColumnPropNameInTable="dtperiodoFColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MPPCP" msprop:Generator_UserTableName="MPPCP" msprop:Generator_RowDeletedName="MPPCPRowDeleted" msprop:Generator_TableClassName="MPPCPDataTable" msprop:Generator_RowChangedName="MPPCPRowChanged" msprop:Generator_RowClassName="MPPCPRow" msprop:Generator_RowChangingName="MPPCPRowChanging" msprop:Generator_RowEvArgName="MPPCPRowChangeEvent" msprop:Generator_RowEvHandlerName="MPPCPRowChangeEventHandler" msprop:Generator_TablePropName="MPPCP" msprop:Generator_TableVarName="tableMPPCP" msprop:Generator_RowDeletingName="MPPCPRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODLOC" msprop:Generator_UserColumnName="CODLOC" msprop:Generator_ColumnPropNameInRow="CODLOC" msprop:Generator_ColumnVarNameInTable="columnCODLOC" msprop:Generator_ColumnPropNameInTable="CODLOCColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CODREM" msprop:Generator_UserColumnName="CODREM" msprop:Generator_ColumnPropNameInRow="CODREM" msprop:Generator_ColumnVarNameInTable="columnCODREM" msprop:Generator_ColumnPropNameInTable="CODREMColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SIGREM" msprop:Generator_UserColumnName="SIGREM" msprop:Generator_ColumnPropNameInRow="SIGREM" msprop:Generator_ColumnVarNameInTable="columnSIGREM" msprop:Generator_ColumnPropNameInTable="SIGREMColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TIPREM" msprop:Generator_UserColumnName="TIPREM" msprop:Generator_ColumnPropNameInRow="TIPREM" msprop:Generator_ColumnVarNameInTable="columnTIPREM" msprop:Generator_ColumnPropNameInTable="TIPREMColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="COTDIA" msprop:Generator_UserColumnName="COTDIA" msprop:Generator_ColumnPropNameInRow="COTDIA" msprop:Generator_ColumnVarNameInTable="columnCOTDIA" msprop:Generator_ColumnPropNameInTable="COTDIAColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="COTANU" msprop:Generator_UserColumnName="COTANU" msprop:Generator_ColumnPropNameInRow="COTANU" msprop:Generator_ColumnVarNameInTable="columnCOTANU" msprop:Generator_ColumnPropNameInTable="COTANUColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CODPOS" msprop:Generator_UserColumnName="CODPOS" msprop:Generator_ColumnPropNameInRow="CODPOS" msprop:Generator_ColumnVarNameInTable="columnCODPOS" msprop:Generator_ColumnPropNameInTable="CODPOSColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CODFRO" msprop:Generator_UserColumnName="CODFRO" msprop:Generator_ColumnPropNameInRow="CODFRO" msprop:Generator_ColumnVarNameInTable="columnCODFRO" msprop:Generator_ColumnPropNameInTable="CODFROColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="6" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PAGSEP" msprop:Generator_UserColumnName="PAGSEP" msprop:Generator_ColumnPropNameInRow="PAGSEP" msprop:Generator_ColumnVarNameInTable="columnPAGSEP" msprop:Generator_ColumnPropNameInTable="PAGSEPColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SIGPOS" msprop:Generator_UserColumnName="SIGPOS" msprop:Generator_ColumnPropNameInRow="SIGPOS" msprop:Generator_ColumnVarNameInTable="columnSIGPOS" msprop:Generator_ColumnPropNameInTable="SIGPOSColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NOMPOS" msprop:Generator_UserColumnName="NOMPOS" msprop:Generator_ColumnPropNameInRow="NOMPOS" msprop:Generator_ColumnVarNameInTable="columnNOMPOS" msprop:Generator_ColumnPropNameInTable="NOMPOSColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DATAREC" msprop:Generator_UserColumnName="DATAREC" msprop:Generator_ColumnPropNameInRow="DATAREC" msprop:Generator_ColumnVarNameInTable="columnDATAREC" msprop:Generator_ColumnPropNameInTable="DATARECColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NUMDOC" msprop:Generator_UserColumnName="NUMDOC" msprop:Generator_ColumnPropNameInRow="NUMDOC" msprop:Generator_ColumnVarNameInTable="columnNUMDOC" msprop:Generator_ColumnPropNameInTable="NUMDOCColumn" type="xs:decimal" />
+              <xs:element name="TIPDOC" msprop:Generator_UserColumnName="TIPDOC" msprop:Generator_ColumnPropNameInRow="TIPDOC" msprop:Generator_ColumnVarNameInTable="columnTIPDOC" msprop:Generator_ColumnPropNameInTable="TIPDOCColumn" type="xs:decimal" />
+              <xs:element name="NUMNFR" msprop:Generator_UserColumnName="NUMNFR" msprop:Generator_ColumnPropNameInRow="NUMNFR" msprop:Generator_ColumnVarNameInTable="columnNUMNFR" msprop:Generator_ColumnPropNameInTable="NUMNFRColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QTDNF1" msprop:Generator_UserColumnName="QTDNF1" msprop:Generator_ColumnPropNameInRow="QTDNF1" msprop:Generator_ColumnVarNameInTable="columnQTDNF1" msprop:Generator_ColumnPropNameInTable="QTDNF1Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QTDNF2" msprop:Generator_UserColumnName="QTDNF2" msprop:Generator_ColumnPropNameInRow="QTDNF2" msprop:Generator_ColumnVarNameInTable="columnQTDNF2" msprop:Generator_ColumnPropNameInTable="QTDNF2Column" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CODCOM" msprop:Generator_UserColumnName="CODCOM" msprop:Generator_ColumnPropNameInRow="CODCOM" msprop:Generator_ColumnVarNameInTable="columnCODCOM" msprop:Generator_ColumnPropNameInTable="CODCOMColumn" type="xs:decimal" />
+              <xs:element name="TIPOMP" msprop:Generator_UserColumnName="TIPOMP" msprop:Generator_ColumnPropNameInRow="TIPOMP" msprop:Generator_ColumnVarNameInTable="columnTIPOMP" msprop:Generator_ColumnPropNameInTable="TIPOMPColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TIPDES" msprop:Generator_UserColumnName="TIPDES" msprop:Generator_ColumnPropNameInRow="TIPDES" msprop:Generator_ColumnVarNameInTable="columnTIPDES" msprop:Generator_ColumnPropNameInTable="TIPDESColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QTDMPR" msprop:Generator_UserColumnName="QTDMPR" msprop:Generator_ColumnPropNameInRow="QTDMPR" msprop:Generator_ColumnVarNameInTable="columnQTDMPR" msprop:Generator_ColumnPropNameInTable="QTDMPRColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TEORMG" msprop:Generator_UserColumnName="TEORMG" msprop:Generator_ColumnPropNameInRow="TEORMG" msprop:Generator_ColumnVarNameInTable="columnTEORMG" msprop:Generator_ColumnPropNameInTable="TEORMGColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QTDGOR" msprop:Generator_UserColumnName="QTDGOR" msprop:Generator_ColumnPropNameInRow="QTDGOR" msprop:Generator_ColumnVarNameInTable="columnQTDGOR" msprop:Generator_ColumnPropNameInTable="QTDGORColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MPPCP" />
+      <xs:field xpath="mstns:CODLOC" />
+      <xs:field xpath="mstns:NUMDOC" />
+      <xs:field xpath="mstns:TIPDOC" />
+      <xs:field xpath="mstns:CODCOM" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

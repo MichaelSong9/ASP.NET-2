@@ -1,0 +1,8 @@
+C:\CS25102009\Ramais\Ramais\obj\Debug\ResolveAssemblyReference.cache
+C:\CS25102009\Ramais\Ramais\obj\Debug\Ramais.ramaisForm.resources
+C:\CS25102009\Ramais\Ramais\obj\Debug\Ramais.Properties.Resources.resources
+C:\CS25102009\Ramais\Ramais\obj\Debug\Ramais.csproj.GenerateResource.Cache
+C:\CS25102009\Ramais\Ramais\bin\Debug\Ramais.exe
+C:\CS25102009\Ramais\Ramais\bin\Debug\Ramais.pdb
+C:\CS25102009\Ramais\Ramais\obj\Debug\Ramais.exe
+C:\CS25102009\Ramais\Ramais\obj\Debug\Ramais.pdb

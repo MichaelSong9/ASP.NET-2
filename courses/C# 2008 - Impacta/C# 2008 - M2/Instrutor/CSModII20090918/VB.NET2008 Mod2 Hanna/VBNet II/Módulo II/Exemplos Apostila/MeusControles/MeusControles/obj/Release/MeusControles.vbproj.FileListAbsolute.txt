@@ -1,0 +1,10 @@
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\bin\Release\MeusControles.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\bin\Release\MeusControles.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\bin\Release\MeusControles.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\obj\Release\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\obj\Release\MeusControles.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\obj\Release\MeusControles.TabTextBox.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\obj\Release\MeusControles.vbproj.GenerateResource.Cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\obj\Release\MeusControles.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\obj\Release\MeusControles.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\MeusControles\MeusControles\obj\Release\MeusControles.pdb

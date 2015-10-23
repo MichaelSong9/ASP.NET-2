@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+C:\[ CSharp-30-08-09 ]\9.Interfaces\Interfaces\obj\Debug\Interfaces.frmInterface.resources

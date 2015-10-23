@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Conexao.Form1.resources
+obj\Debug\Conexao.Properties.Resources.resources
+obj\Debug\Conexao.csproj.GenerateResource.Cache
+bin\Debug\Conexao.exe
+bin\Debug\Conexao.pdb
+obj\Debug\Conexao.exe
+obj\Debug\Conexao.pdb

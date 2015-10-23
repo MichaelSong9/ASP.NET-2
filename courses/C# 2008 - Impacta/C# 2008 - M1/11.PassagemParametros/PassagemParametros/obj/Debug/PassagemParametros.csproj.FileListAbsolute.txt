@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\bin\Debug\PassagemParametros.exe
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\bin\Debug\PassagemParametros.pdb
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\obj\Debug\PassagemParametros.frmTipos.resources
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\obj\Debug\PassagemParametros.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\obj\Debug\PassagemParametros.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\obj\Debug\PassagemParametros.exe
+C:\[ CSharp-30-08-09 ]\11.PassagemParametros\PassagemParametros\obj\Debug\PassagemParametros.pdb

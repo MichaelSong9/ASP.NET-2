@@ -1,0 +1,13 @@
+bin\Debug\prjDocumento.exe
+bin\Debug\prjDocumento.pdb
+bin\Debug\prjDocumento.xml
+bin\Debug\prj13_FormataDLL.dll
+bin\Debug\prj13_FormataDLL.pdb
+bin\Debug\prj13_FormataDLL.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\prjDocumento.documentoForm.resources
+obj\Debug\prjDocumento.Resources.resources
+obj\Debug\prjDocumento.vbproj.GenerateResource.Cache
+obj\Debug\prjDocumento.exe
+obj\Debug\prjDocumento.xml
+obj\Debug\prjDocumento.pdb

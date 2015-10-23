@@ -1,0 +1,285 @@
+﻿.AUTOLISTA_PAGES
+{
+	font-weight: bold;
+	font-size: x-small;
+	vertical-align: middle;
+	color: Gray;
+	text-align: left;
+	border-style: inset;
+	overflow: auto;
+	cursor: hand;
+	font-family: Verdana, Monospace;
+	z-index: 1000;
+	
+}
+
+/* posição do layer da barra de botoes do corpo da pagina: incluir, salvar, excluir etc */
+.DIV_BOTOES_BODY
+
+{
+	BORDER-RIGHT: window thin solid; 
+	BORDER-TOP: window thin solid; 
+	Z-INDEX: 101; 
+	LEFT: -16px; 
+	BORDER-LEFT: window thin solid;
+	MARGIN-LEFT: 250px; 
+	WIDTH: 480px; 
+	BORDER-BOTTOM: window thin solid; 
+	POSITION: relative; 
+	TOP: 89%; 
+	HEIGHT: 40px; 
+	BACKGROUND-COLOR: #b5c7de;
+	filter: alpha(opacity:70);
+	opacity:0.7;
+}
+
+/* posição do layer da barra de menus: login, home e ajuda */
+.DIV_BOTOES_HEADER
+{
+	Z-INDEX: 107;
+	LEFT: 851px; 
+	WIDTH: 111px; 
+	POSITION: absolute; 
+	TOP: 86px; 
+	HEIGHT: 20px
+}
+
+/* formatação da div de data */
+.DIV_DATA
+{
+	MARGIN-TOP: 0px;
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	LEFT: 63px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 5px; 
+	VERTICAL-ALIGN: top; 
+	WIDTH: 5%; 
+	PADDING-TOP: 5px; 
+	POSITION: absolute; 
+	TOP: 90px;
+	HEIGHT: 1px
+}
+
+/* formatação da div de hora */
+.DIV_HORA
+{
+	LEFT: 170px; 
+	WIDTH: 8%; 
+	POSITION: absolute; 
+	TOP: 98px; 
+	HEIGHT: 1px
+}
+
+/* formatação do layer da data */
+.DIV_LABEL_DATA
+{
+	PADDING-RIGHT: 5px; 
+	PADDING-LEFT: 5px; 
+	LEFT: 25px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 5px; 
+	VERTICAL-ALIGN: top; 
+	WIDTH: 1%; 
+	PADDING-TOP: 5px; 
+	POSITION: absolute; 
+	TOP: 90px; 
+	HEIGHT: 1px
+}
+
+/* formatação do label da Hora */
+.DIV_LABEL_HORA
+{
+	PADDING-RIGHT: 5px; 
+	MARGIN-TOP: 0px; 
+	PADDING-LEFT: 5px; 
+	LEFT: 128px; 
+	FLOAT: right; 
+	PADDING-BOTTOM: 5px; 
+	VERTICAL-ALIGN: top; 
+	WIDTH: 1%; 
+	PADDING-TOP: 5px; 
+	POSITION: absolute; 
+	TOP: 90px; 
+	HEIGHT: 1px
+}
+
+/* propriedades da div que contem informações do login, banco de dados e empresa */
+.DIV_OPTLOGIN
+{
+	
+	Z-INDEX: 109;
+	LEFT: 268px;
+	WIDTH: 567px; 
+	POSITION: absolute; 
+	TOP: 96px; 
+	HEIGHT: 12px
+	
+}
+
+
+/* posição do logotipo */
+.DIV_LOGO
+{
+	z-index: 101;
+	left: 28px;
+	background-image: url(Imagens/logo_CCL.gif);
+	width: 188px;
+	position: absolute;
+	top: 30px;
+	height: 56px;
+	background-position: center center;
+}
+
+/* formatação da barra de menus */
+.DIV_MENU
+{
+	BACKGROUND-COLOR: #DAE5F9;
+	WIDTH: 99%;
+	HEIGHT: 30px;
+	border-right: lightslategray thin solid;
+	BORDER-LEFT: lightslategray thin solid; 
+	BORDER-BOTTOM: lightslategray thin solid
+}
+
+/* barra de menus de opções */
+.DIV_MENUBAR
+{
+	Z-INDEX: 102; 
+	LEFT: 14px; 
+	WIDTH: 235px; 
+	POSITION: absolute; 
+	TOP: 119px; 
+	HEIGHT: 30px
+}
+
+/* layer do nome do sistema */
+.DIV_NOMESISTEMA
+{
+	Z-INDEX: 106; 
+	LEFT: 42px; 
+	MARGIN: 2% 1%; 
+	WIDTH: 27%; 
+	POSITION: absolute; 
+	TOP: 0px; 
+	HEIGHT: 6px
+}
+
+/* estilo das paginas dentro da masterpage */
+.DIV_PAGES
+{
+	width: 99%;
+	height: 510px;
+	color: navy;
+	border-right: white thin inset;
+	border-top: white thin inset;
+	border-left: white thin inset;
+	border-bottom: white thin inset;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+/* rodapé da pagina */
+.DIV_RODAPE
+{
+ VERTICAL-ALIGN: middle;
+ WIDTH: 100%; 
+ HEIGHT: 16px; 
+ BACKGROUND-COLOR: #ff3366; 
+ TEXT-ALIGN: center
+}
+
+.DIV_USUARIO
+{
+	BORDER-LEFT-COLOR: gray; 
+	BORDER-BOTTOM-COLOR: gray; 
+	WIDTH: 99%; 
+	BORDER-TOP-STYLE: solid; 
+	BORDER-TOP-COLOR: gray; 
+	BORDER-RIGHT-STYLE: solid; 
+	BORDER-LEFT-STYLE: solid; 
+	HEIGHT: 99%; 
+	BORDER-RIGHT-COLOR: gray; 
+	BORDER-BOTTOM-STYLE: solid
+}
+
+/* usado no menu de data e hora */
+.LABEL_MENU
+{
+	font-weight: bolder;
+	font-size: x-small;
+	font-family: 'Arial Black';
+	color: navy;
+	height: 5px;
+	text-align: left;
+	left: 1px;
+}
+
+/* formatação dos labels */
+.LABEL_PAGES
+{
+	font-weight: bold;
+	font-size: small;
+	vertical-align: middle;
+	color: navy;
+	font-family: Verdana, Monospace;
+	text-align: left;
+	padding-right: 5px;
+	margin: 10px;
+}
+
+/* estilo do label do nome do sistema */
+.LABEL_TITULO
+{
+	font-weight: bolder;
+	font-size:  xx-large;
+	font-family: 'Century Gothic';
+	color: RoyalBlue;
+	height: 10px;
+	width: 99%;
+	text-align: justify;	
+}	
+
+/* corpo da pagina, que traz o copo como fundo */
+.TDBODY
+{
+	BACKGROUND-POSITION: center center; 
+	BACKGROUND-IMAGE: url(Imagens/background_Copo.gif); 
+	WIDTH: 99%; 
+	HEIGHT: 510px
+}
+
+
+/* formatação do cabeçalho */
+.TDHEADER
+{
+	BACKGROUND-IMAGE: url(Imagens/banner_CCL.gif);
+	WIDTH: 99%;
+	HEIGHT: 100px;
+}
+
+/* formatação dos textboxes */
+.TEXT_PAGES
+{
+	font-weight: bold;
+	font-size: small;
+	vertical-align: middle;
+	color: navy;
+	font-family: Verdana, Monospace;
+	text-align: left;
+	padding-right: 5px;
+	margin: 3px;
+}
+
+/* formatação da div onde está o label da filial */
+
+.div_Filial
+{
+	Z-INDEX: 111; 
+	LEFT: 332px; 
+	WIDTH: 389px;
+	POSITION: absolute; 
+	TOP: 73px; 
+	HEIGHT: 14px
+}

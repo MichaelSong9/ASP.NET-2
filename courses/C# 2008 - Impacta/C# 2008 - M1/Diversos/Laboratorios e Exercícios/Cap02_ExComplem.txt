@@ -1,0 +1,18 @@
+Exercícios Complementares
+
+1. Quais são os operadores aritméticos?
+Resposta: Soma(+), Subtração(-), Multiplicação(*), Divisão(/) e Resto da divisão(%)
+
+2. Quais são os operadores lógicos?
+Resposta: E(&&), Ou(||) e Não(!)
+
+3.Quais são os operadores de comparação?
+Resposta: Igual(==), Maior(>), Menor(<), Maior ou Igual(>=), Menor ou Igual(<=) e o Diferente(!=)
+
+4. Porquê o resultado da expressão 2+5*2 é 12 e não 14?
+Resposta: Porque o operador de multiplicação tem precedência sobre o operador da soma.
+
+5. Como é a sintaxe do operador ternário? Faça um exemplo.
+Resposta: variável=teste?verdadeiro:falso
+Exemplo: frete= estado=="SP"?10:20
+

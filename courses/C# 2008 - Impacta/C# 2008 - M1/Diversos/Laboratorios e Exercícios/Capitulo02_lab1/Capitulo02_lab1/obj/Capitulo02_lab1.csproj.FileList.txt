@@ -1,0 +1,8 @@
+bin\Debug\Capitulo02_lab1.exe
+bin\Debug\Capitulo02_lab1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Capitulo02_lab1.Properties.Resources.resources
+obj\Debug\Capitulo02_lab1.csproj.GenerateResource.Cache
+obj\Debug\Capitulo02_lab1.exe
+obj\Debug\Capitulo02_lab1.pdb
+obj\Debug\Capitulo02_lab1.calculadoraForm.resources

@@ -1,0 +1,47 @@
+Exercícios Complementares
+
+1. Quais são as classes necessárias para construir uma aplicação Windows com menus e barra de ferramentas
+Resposta: 
+Menus: MenuStrip
+Barra de ferramentas:ToolStrip
+
+2. Qual é o controle mais adequado para se obter uma data digitada pelo usuário
+Resposta: DateTimePicker
+
+3. Escreve o código necessário para exibir uma caixa de diálogo que obtenha uma cor escolhida pelo usuário e a coloque na cor de fundo do formulário
+Resposta: 
+ColorDialog cd = new ColorDialog();
+if (cd.ShowDialog())
+{
+	this.backcolor=cd.color
+}
+
+4. Qual é a classe de base na maioria dos controles Windows
+Resposta: System.Windows.Forms.Control
+
+5. Escreva um código para exibir um formulário
+Reposta: 
+meuForm frm = new meuForm();
+frm.Show();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

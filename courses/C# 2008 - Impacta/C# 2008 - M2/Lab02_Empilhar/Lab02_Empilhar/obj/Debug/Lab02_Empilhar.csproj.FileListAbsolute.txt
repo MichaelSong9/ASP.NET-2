@@ -1,0 +1,8 @@
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\bin\Debug\Lab02_Empilhar.exe
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\bin\Debug\Lab02_Empilhar.pdb
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\obj\Debug\Lab02_Empilhar.Form1.resources
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\obj\Debug\Lab02_Empilhar.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\obj\Debug\Lab02_Empilhar.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\obj\Debug\Lab02_Empilhar.exe
+C:\Csharp2008-25-10-2009\Lab02_Empilhar\Lab02_Empilhar\obj\Debug\Lab02_Empilhar.pdb

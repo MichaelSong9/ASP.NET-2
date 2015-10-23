@@ -1,0 +1,52 @@
+Exercícios de fixação
+
+1. Qual a sintaxe correta para um objeto se inscrever em um evento
+
+a) meuObjeto.Evento+= new EventHandler(meuMetodo)
+b) meuObjeto.Evento+= new meuMetodo
+c) public delegate EventHandler meuMetodo
+d) meuObjeto.EventHandler+= new meuMetodo()
+e) Evento.meuObjeto+= new EventHandler()
+
+Resposta: A
+
+2. Como é chamado um método cujo corpo está definido na própria declaração do delegate
+
+a) Método assíncrono
+b) Método de evento
+c) Método anônimo
+d) Método abstrato
+e) Método virtual
+
+Resposta: C
+
+3. Qual é a classe que permite criar uma coleção de objetos
+
+a) Delegate
+b) Form
+c) DictionaryEntry
+d) ArrayList
+e) Generic
+
+Resposta: D
+
+4. Qual é a assinatura padrão dos eventos no .NET FrameWork
+
+a) void Metodo(object, eventArgs)
+b) void Metodo(eventArgs,object)
+c) objectMetodo(EventHandler)
+d) EventHandler método(delegate)
+e) void Metodo(delegate,o bject)
+
+Resposta: A
+
+5. Qual é um dos motivos pelo qual foram criados os generics
+
+a) Para melhorar a portabilidade entre as linguagens
+b) Para evitar o uso exclusivo de object e de cast
+c) Para poder criar coleções de object
+d) Para poder compilar sem preocupação com os tipos de variáveis
+e) Para poder acessar qualquer banco de dados genérico
+
+Resposta: B
+

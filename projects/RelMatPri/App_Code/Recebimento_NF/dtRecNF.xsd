@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dtRecNF" targetNamespace="http://tempuri.org/dtRecNF.xsd" xmlns:mstns="http://tempuri.org/dtRecNF.xsd" xmlns="http://tempuri.org/dtRecNF.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="RemetenteConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="RemetenteConnectionString (Web.config)" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.RemetenteConnectionString.ConnectionString" Provider="System.Data.OracleClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MPPCPTableAdapter" Name="MPPCP">
+            <MainSource>
+              <DbSource ConnectionRef="RemetenteConnectionString (Web.config)" DbObjectName="MPPCP.MPPCP" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="False">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT CODLOC FROM MPPCP</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CODLOC" DataSetColumn="CODLOC" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dtRecNF" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MPPCP">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODLOC">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NOMREM" type="xs:string" minOccurs="0" />
+              <xs:element name="DATAREC" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NUMNFR" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NUMERONFI" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NOMPOS" type="xs:string" minOccurs="0" />
+              <xs:element name="CODREM" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TOTALINF" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LEITEB" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LEITEC" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LEITED" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TOTALRECEBIDO" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DIFERENCA" type="xs:decimal" minOccurs="0" />
+              <xs:element name="QTDGOR" type="xs:decimal" minOccurs="0" />
+              <xs:element name="LOCALIZACAO" type="xs:string" minOccurs="0" />
+              <xs:element name="TIPOREMETENTE" type="xs:string" minOccurs="0" />
+              <xs:element name="REMETENTE" type="xs:string" minOccurs="0" />
+              <xs:element name="TIPODOCUMENTO" type="xs:string" minOccurs="0" />
+              <xs:element name="NOTAFISCAL" type="xs:decimal" minOccurs="0" />
+              <xs:element name="BOLETIM" type="xs:decimal" minOccurs="0" />
+              <xs:element name="POSTOFISCAL" type="xs:string" minOccurs="0" />
+              <xs:element name="DATAINICIAL" type="xs:string" minOccurs="0" />
+              <xs:element name="DATAFINAL" type="xs:string" minOccurs="0" />
+              <xs:element name="NUMERONFF" type="xs:decimal" minOccurs="0" />
+              <xs:element name="NUMDOC" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TOTALNF" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

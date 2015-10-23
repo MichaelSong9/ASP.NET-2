@@ -1,0 +1,7 @@
+C:\Csharp2008-25-10-2009\CAP8-Componentes\Framework\bin\Debug\Framework.dll
+C:\Csharp2008-25-10-2009\CAP8-Componentes\Framework\bin\Debug\Framework.pdb
+C:\Csharp2008-25-10-2009\CAP8-Componentes\Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\CAP8-Componentes\Framework\obj\Debug\Framework.UserControl1.resources
+C:\Csharp2008-25-10-2009\CAP8-Componentes\Framework\obj\Debug\Framework.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\CAP8-Componentes\Framework\obj\Debug\Framework.dll
+C:\Csharp2008-25-10-2009\CAP8-Componentes\Framework\obj\Debug\Framework.pdb

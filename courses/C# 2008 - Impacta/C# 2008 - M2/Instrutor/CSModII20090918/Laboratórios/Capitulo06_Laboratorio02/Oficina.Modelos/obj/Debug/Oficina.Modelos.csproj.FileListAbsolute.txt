@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio02\Oficina.Modelos\bin\Debug\Oficina.Modelos.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio02\Oficina.Modelos\bin\Debug\Oficina.Modelos.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\Oficina.Modelos.dll
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\Oficina.Modelos.pdb
+F:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo06_Laboratorio02\Oficina.Modelos\bin\Debug\Oficina.Modelos.dll
+F:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo06_Laboratorio02\Oficina.Modelos\bin\Debug\Oficina.Modelos.pdb
+F:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\ResolveAssemblyReference.cache
+F:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\Oficina.Modelos.dll
+F:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\Oficina.Modelos.pdb

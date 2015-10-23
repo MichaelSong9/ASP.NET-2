@@ -1,0 +1,14 @@
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.exe
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.xml
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.pdb
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\bin\Release\prjCapturaTela.exe
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\bin\Release\prjCapturaTela.pdb
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\bin\Release\prjCapturaTela.xml
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\ResolveAssemblyReference.cache
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.capturaTelaForm.resources
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.fundoForm.resources
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.Resources.resources
+E:\Impacta\Treinamentos Ministrados\VBnet - 2008_10_27\Diversos VBNet\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.vbproj.GenerateResource.Cache
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.exe
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.xml
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.pdb

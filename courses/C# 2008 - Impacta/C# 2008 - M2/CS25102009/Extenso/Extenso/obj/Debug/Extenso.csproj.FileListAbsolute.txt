@@ -1,0 +1,8 @@
+C:\CS25102009\Extenso\Extenso\bin\Debug\Extenso.exe
+C:\CS25102009\Extenso\Extenso\bin\Debug\Extenso.pdb
+C:\CS25102009\Extenso\Extenso\obj\Debug\ResolveAssemblyReference.cache
+C:\CS25102009\Extenso\Extenso\obj\Debug\Extenso.extensoForm.resources
+C:\CS25102009\Extenso\Extenso\obj\Debug\Extenso.Properties.Resources.resources
+C:\CS25102009\Extenso\Extenso\obj\Debug\Extenso.csproj.GenerateResource.Cache
+C:\CS25102009\Extenso\Extenso\obj\Debug\Extenso.exe
+C:\CS25102009\Extenso\Extenso\obj\Debug\Extenso.pdb

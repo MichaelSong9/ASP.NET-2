@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[OracleServer.vbproj]
+SCC_Aux_Path = "\\Cclteste\VSS Database\ConexaoSQL"
+SCC_Project_Name = "$/ConexaoSQL.root/ConexaoSQL/OracleServer", GAAAAAAA

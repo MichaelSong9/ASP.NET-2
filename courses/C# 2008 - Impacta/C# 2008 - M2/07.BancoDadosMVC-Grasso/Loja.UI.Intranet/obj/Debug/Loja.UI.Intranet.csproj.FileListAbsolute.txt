@@ -1,0 +1,30 @@
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.UI.Intranet.exe
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.UI.Intranet.pdb
+C:\Grasso\Loja\Loja.UI.Intranet\obj\Debug\ResolveAssemblyReference.cache
+C:\Grasso\Loja\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.Form1.resources
+C:\Grasso\Loja\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.Properties.Resources.resources
+C:\Grasso\Loja\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.csproj.GenerateResource.Cache
+C:\Grasso\Loja\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.exe
+C:\Grasso\Loja\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.pdb
+C:\Grasso\Loja\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.ProdutosForm.resources
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.Modelos.dll
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.Modelos.pdb
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.BLL.dll
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.DAL.dll
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.BLL.pdb
+C:\Grasso\Loja\Loja.UI.Intranet\bin\Debug\Loja.DAL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.UI.Intranet.exe
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.UI.Intranet.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.BLL.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.Modelos.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.DAL.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.BLL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.DAL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\bin\Debug\Loja.Modelos.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.Form1.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.ProdutosForm.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.Properties.Resources.resources
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.csproj.GenerateResource.Cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.exe
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC-Grasso\Loja.UI.Intranet\obj\Debug\Loja.UI.Intranet.pdb

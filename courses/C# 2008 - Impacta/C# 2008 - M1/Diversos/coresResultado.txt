@@ -1,0 +1,19 @@
+class CorResultado
+    {
+        //Criação dos eventos
+        public event System.EventHandler ResultadoNegativo;
+        public event System.EventHandler ResultadoPositivo;
+
+        //Método para "disparar" os eventos
+        public void TestarResultado(decimal valor)
+        {
+            if (valor < 0)
+            {
+                ResultadoNegativo(this, new EventArgs());
+            }
+            else
+            {
+                ResultadoPositivo(this, new EventArgs());
+            }
+        }
+    }

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Pagina_Principal.aspx" title="Home"  description="Home">
+
+    <siteMapNode title="Telefones" description="Telefones">
+      <siteMapNode url="Telefones/Abreviadas.aspx" title="Abreviadas" description ="Cadastrar ou alterar abreviadas"/>
+      <siteMapNode url="Telefones/Associadas.aspx" title="Associadas" description ="Cadastrar ou alterar associadas"/>
+      <siteMapNode url="Telefones/Celulares.aspx" title="Celulares" description ="Cadastrar ou alterar celulares"/>
+      <siteMapNode url="Telefones/Fax.aspx" title="Fax" description ="Cadastrar ou alterar fax"/>
+      <siteMapNode url="Telefones/Filiais.aspx" title="Filiais" description ="Cadastrar ou alterar filiais"/>
+      <siteMapNode url="Telefones/Ramais.aspx" title="Ramais" description ="Cadastrar ou alterar ramais"/>
+    </siteMapNode>
+
+    <siteMapNode title="Correspondências" description="Correspondencias">
+      <siteMapNode title="Associadas" description="Associadas" url="Correspondencias/Associadas.aspx"/>
+      <siteMapNode title="Correio" description="Correio" url="Correspondencias/Correio.aspx"/>
+      <siteMapNode title="Devoluções" description="Devoluões" url="Correspondencias/Devolucoes.aspx"/>
+      <siteMapNode title="JRA" description="JRA" url="Correspondencias/JRA.aspx"/>
+      <siteMapNode title="Motoqueiros" description="Motoqueiros" url="Correspondencias/Motoqueiros.aspx"/>
+      <siteMapNode title="PARP" description="PARP" url="Correspondencias/PARP.aspx"/>
+    </siteMapNode>
+
+    <siteMapNode title="Revistas" description="Revistas">
+      <siteMapNode title="Assinaturas" description="Assinaturas" url="Revistas/Assinaturas.aspx"/>
+      <siteMapNode title="Canceladas" description="Canceladas" url="Revistas/Canceladas.aspx"/>
+    </siteMapNode>
+
+    <siteMapNode title="Veículos" description="Veículos">
+      <siteMapNode title="Centro de Custos" description="Centro de Custos" url="Veiculos/CentroCustos.aspx"/>
+      <siteMapNode title="Frota" description="Frota" url="Veiculos/Frota.aspx"/>
+      <siteMapNode title="Motorista" description="Motorista" url="Veiculos/Motorista.aspx"/>
+      <siteMapNode title="Movimentação" description="Movimentação" url="Veiculos/Movimentacao.aspx"/>
+      <siteMapNode title="Pintura" description="Pintura" url="Veiculos/Pintura.aspx"/>
+      <siteMapNode title="Relatórios?" description="Relatórios?" url="Veiculos/Relatorios.aspx"/>
+      <siteMapNode title="Vistoria" description="Vistoria" url="Veiculos/Vistoria.aspx"/>
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,8 @@
+C:\Csharp2008-25-10-2009\Genericos\Genericos\bin\Debug\Genericos.exe
+C:\Csharp2008-25-10-2009\Genericos\Genericos\bin\Debug\Genericos.pdb
+C:\Csharp2008-25-10-2009\Genericos\Genericos\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\Genericos\Genericos\obj\Debug\Genericos.frmGenericos.resources
+C:\Csharp2008-25-10-2009\Genericos\Genericos\obj\Debug\Genericos.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\Genericos\Genericos\obj\Debug\Genericos.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\Genericos\Genericos\obj\Debug\Genericos.exe
+C:\Csharp2008-25-10-2009\Genericos\Genericos\obj\Debug\Genericos.pdb

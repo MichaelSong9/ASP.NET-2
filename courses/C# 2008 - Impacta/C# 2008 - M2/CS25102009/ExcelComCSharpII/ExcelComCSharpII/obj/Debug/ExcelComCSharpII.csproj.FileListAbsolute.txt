@@ -1,0 +1,12 @@
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\bin\Debug\ExcelComCSharpII.exe
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\bin\Debug\ExcelComCSharpII.pdb
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\bin\Debug\Interop.Excel.dll
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\bin\Debug\Interop.Office.dll
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\bin\Debug\Interop.VBIDE.dll
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\obj\Debug\ResolveAssemblyReference.cache
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\obj\Debug\ExcelComCSharpII.Form1.resources
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\obj\Debug\ExcelComCSharpII.Properties.Resources.resources
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\obj\Debug\ExcelComCSharpII.csproj.GenerateResource.Cache
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\obj\Debug\ExcelComCSharpII.exe
+C:\CS25102009\ExcelComCSharpII\ExcelComCSharpII\obj\Debug\ExcelComCSharpII.pdb

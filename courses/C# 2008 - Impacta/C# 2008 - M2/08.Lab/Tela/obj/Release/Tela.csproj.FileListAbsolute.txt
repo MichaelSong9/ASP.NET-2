@@ -1,0 +1,12 @@
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\bin\Release\Tela.exe
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\bin\Release\Tela.pdb
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\bin\Release\Capitulo08_Laboratorio01.dll
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\bin\Release\Framework.dll
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\bin\Release\Framework.pdb
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\bin\Release\Capitulo08_Laboratorio01.pdb
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\obj\Release\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\obj\Release\Tela.Form1.resources
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\obj\Release\Tela.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\obj\Release\Tela.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\obj\Release\Tela.exe
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Tela\obj\Release\Tela.pdb

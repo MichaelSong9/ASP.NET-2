@@ -1,0 +1,1 @@
+Persist Security Info=True;User ID=mppcp;Password=mppcp;Unicode=True

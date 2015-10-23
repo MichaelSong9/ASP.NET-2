@@ -1,0 +1,8 @@
+C:\Csharp2008-25-10-2009\Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Csharp2008-25-10-2009\Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Csharp2008-25-10-2009\Vetores\Vetores\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\Vetores\Vetores\obj\Debug\Vetores.frmVetores.resources
+C:\Csharp2008-25-10-2009\Vetores\Vetores\obj\Debug\Vetores.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\Vetores\Vetores\obj\Debug\Vetores.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Csharp2008-25-10-2009\Vetores\Vetores\obj\Debug\Vetores.pdb

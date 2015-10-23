@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[clReportCrystal.sln]
+SCC_Aux_Path = "\\cclteste\VSS Database\CtaPagar"
+SCC_Project_Name = "$/CtaPagar/ReportCrystal/clReportCrystal", KGBAAAAA
+
+[clReportCrystal.vbproj]
+SCC_Aux_Path = "\\cclteste\VSS Database\CtaPagar"
+SCC_Project_Name = "$/CtaPagar/ReportCrystal/clReportCrystal", KGBAAAAA

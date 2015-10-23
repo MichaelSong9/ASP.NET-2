@@ -1,0 +1,9 @@
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\bin\Debug\Oficina.BLL.dll
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\bin\Debug\Oficina.BLL.pdb
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\bin\Debug\Oficina.DAL.dll
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\bin\Debug\Oficina.Modelos.dll
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\bin\Debug\Oficina.DAL.pdb
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\bin\Debug\Oficina.Modelos.pdb
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\obj\Debug\Oficina.BLL.dll
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.BLL\obj\Debug\Oficina.BLL.pdb

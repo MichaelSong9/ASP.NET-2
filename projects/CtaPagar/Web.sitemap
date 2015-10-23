@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Pagamentos">
+     <siteMapNode url="Pagamentos/Email/Email.aspx" title="E-mail" description ="E-mail"/>
+     <siteMapNode url="Pagamentos/Historico/Historico.aspx"  title="Histórico"  description="Histórico"/>
+     <siteMapNode url="Pagamentos/Relatorio/Relatorio.aspx"  title="Relatório"  description="Relatório"/>
+  </siteMapNode>
+</siteMap>

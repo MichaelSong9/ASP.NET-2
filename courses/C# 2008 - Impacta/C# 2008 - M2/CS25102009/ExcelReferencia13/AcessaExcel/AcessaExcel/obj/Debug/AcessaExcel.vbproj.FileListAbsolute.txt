@@ -1,0 +1,17 @@
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\Interop.Excel.dll
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\AcessaExcel.vbproj.ResolveComReference.cache
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\AcessaExcel.xml
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\AcessaExcel.pdb
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\bin\Debug\AcessaExcel.exe
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\bin\Debug\AcessaExcel.pdb
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\bin\Debug\AcessaExcel.xml
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\bin\Debug\Interop.Excel.dll
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\bin\Debug\Interop.VBIDE.dll
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\AcessaExcel.Form1.resources
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\AcessaExcel.Resources.resources
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\AcessaExcel.vbproj.GenerateResource.Cache
+C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel\obj\Debug\AcessaExcel.exe

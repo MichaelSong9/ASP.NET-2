@@ -1,0 +1,164 @@
+﻿<%@  Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Untitled Page</title>
+    <link href="App_Themes/CCL/CCL.css" rel="stylesheet" type="text/css" />
+    <link id="Estilo" type="text/css" rel="stylesheet" runat="server" />
+</head>
+<body onload="HoraAtual();">
+    <form id="form1" runat="server">
+    <div>
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%;
+            border-right: silver thin solid; border-top: silver thin solid; border-left: silver thin solid;
+            border-bottom: silver thin solid; font-weight: bold; font-size: small; background-color: #e0dfdf;"
+            id="TABLE1" onclick="return TABLE1_onclick()">
+            <tr>
+                <td id="tdHeader" class="TDHEADER" colspan="">
+                    <div class="DIV_BOTOES_HEADER" id="divBotoes">
+                        <asp:ImageButton ID="imbAlterar" runat="server" Height="20px" ImageUrl="~/App_Themes/CCL/Imagens/login.gif"
+                            Style="padding-right: 8px; padding-bottom: 3px; cursor: hand" Width="20px" ToolTip="Alterar Senha"
+                            PostBackUrl="~/Usuario/Senha.aspx" />
+                        <asp:ImageButton ID="imbHome" runat="server" Height="20px" ImageUrl="~/App_Themes/CCL/Imagens/home.gif"
+                            Style="padding-right: 8px; padding-bottom: 3px; cursor: hand" Width="20px" ToolTip="Home"
+                            PostBackUrl="~/Pagina_Principal.aspx" /><asp:ImageButton ID="ImageButton2" runat="server"
+                                Height="20px" ImageUrl="~/App_Themes/CCL/Imagens/help.gif" Style="padding-right: 7px;
+                                padding-bottom: 3px; cursor: hand" Width="20px" ToolTip="Ajuda" />
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="1" class="DIV_MENU_INICIO" id="div_menu_horario">
+                </td>
+            </tr>
+            <tr>
+                <td id="divMenu" class="DIV_MENU" colspan="">
+                    &nbsp;
+                </td>
+            </tr>
+            <tr>
+                <td class="TDBODY">
+                    &nbsp;<asp:SiteMapPath ID="sitePath" runat="server" BackColor="Transparent" Font-Names="Verdana"
+                        Font-Size="0.8em" ForeColor="White" PathSeparator=" : " BorderColor="Transparent"
+                        Width="260px">
+                        <PathSeparatorStyle Font-Bold="True" ForeColor="Red" />
+                        <CurrentNodeStyle ForeColor="#333333" />
+                        <NodeStyle Font-Bold="True" ForeColor="#284E98" />
+                        <RootNodeStyle Font-Bold="True" ForeColor="#507CD1" />
+                    </asp:SiteMapPath>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    <div id="divHora" class="DIV_HORA">
+                        <asp:Label ID="lblHora" Style="left: 1px;" Font-Names="Verdana" runat="server" Font-Size="XX-Small"
+                            ForeColor="red" Height="5px" Font-Bold="true">
+                            <span id="hHora" style="color:black"></span>
+                        </asp:Label>
+                    </div>
+                    <div id="divLabelHora" class="DIV_LABEL_HORA" style="top: 102px; z-index: 102; left: 133px;">
+                        <asp:Label ID="lblhHor" Style="left: 1px;" runat="server" Font-Bold="False" Text="Hora: "
+                            CssClass="LABEL_MENU"></asp:Label>
+                    </div>
+                    <div id="divData" class="DIV_DATA">
+                        <asp:Label ID="lblData" Style="left: 1px;" Font-Names="Verdana" runat="server" Font-Size="XX-Small"
+                            ForeColor="Black" Height="5px" Font-Bold="True">
+                            <span id="dData" style="color:black"></span>
+                        </asp:Label>
+                    </div>
+                    <div id="divLabelData" class="DIV_LABEL_DATA">
+                        <asp:Label ID="lbldData" Style="left: 1px;" runat="server" Font-Bold="False" Text="Data: "
+                            CssClass="LABEL_MENU"></asp:Label>
+                    </div>
+                    <div id="divOPTLogin" class="DIV_OPTLOGIN">
+                        <asp:Label ID="lblLogin" runat="server" Text="Usuário:" CssClass="LABEL_MENU_UF"></asp:Label>&nbsp;&nbsp;<asp:Label
+                            ID="lblUsuario" runat="server" CssClass="LABEL_MENU_FILIAL"></asp:Label>
+                        &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<asp:Label ID="lblFilial" runat="server" Text="Filial:"
+                            CssClass="LABEL_MENU_UF"></asp:Label>
+                        <asp:Label ID="lblEmpresa" runat="server" CssClass="LABEL_MENU_FILIAL"></asp:Label>
+                        &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<asp:Label ID="lblBanco" runat="server" Text="Banco de Dados:"
+                            CssClass="LABEL_MENU_BD"></asp:Label>
+                        <asp:Label ID="lblNomeBanco" runat="server" CssClass="LABEL_MENU_BCODADOS"></asp:Label></div>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 1076px; height: 12px;">
+                    <div id="divRodape" class="DIV_RODAPE">
+                        Copyright © 2008 - Todos os direitos Reservados - Cooperativa Central de Laticínios
+                        do Estado de São Paulo - CCL</div>
+                </td>
+            </tr>
+        </table>
+        <div class="DIV_MENUBAR" id="divMenu02" style="left: 15px; top: 126px; z-index: 104;">
+            <asp:Menu ID="mnuADMINtra" runat="server" BackColor="#B5C7DE" DynamicHorizontalOffset="2"
+                Font-Names="Verdana" Font-Size="0.849em" ForeColor="#284E98" Orientation="Horizontal"
+                StaticSubMenuIndent="10px" Font-Bold="False" Height="23px" DataSourceID="SiteMapDataSource1"
+                BorderColor="White" BorderStyle="Solid" BorderWidth="1px">
+                <StaticMenuItemStyle BorderStyle="Double" HorizontalPadding="5px" VerticalPadding="2px"
+                    BorderWidth="1px" />
+                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                <DynamicMenuStyle BackColor="#B5C7DE" />
+                <StaticSelectedStyle BackColor="#507CD1" />
+                <DynamicSelectedStyle BackColor="#507CD1" />
+                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" BackColor="#B5C7DE" />
+                <StaticHoverStyle BackColor="#284E98" ForeColor="White" Font-Bold="False" BorderStyle="Solid"
+                    BorderWidth="1px" />
+                <StaticMenuStyle HorizontalPadding="3px" />
+            </asp:Menu>
+            <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+        </div>
+    </div>
+    </form>
+
+    <script type="text/javascript" language="javascript">
+          function HoraAtual()
+         {
+            Data = new Date()
+                var ano = Data.getYear()
+                 if (ano <1000)
+                    ano+=1900
+                       var mes = Data.getMonth()
+                        var mesok = mes + 1
+                          if (mesok<10)
+                              mesok="0"+mesok
+                                 var diam = Data.getDate()
+                                   if (diam<10)
+                                      diam="0"+diam
+
+            //var cdata = "Data: " + diam + "/" + mesok + "/" + ano
+
+            var cdata = " " + diam + "/" + mesok + "/" + ano
+                hora = Data.getHours();
+                minutos = Data.getMinutes();
+                segundos = Data.getSeconds();
+            var dn = "AM";
+                if (hora>=12)
+                    dn = "PM";
+                    if (hora>12)
+                        hora = hora-12;
+                        if (hora==0)
+                            hora=12;
+                            if (minutos<=9)
+                                minutos="0"+minutos;
+                                if (segundos<=9)
+                                    segundos="0"+segundos; 
+
+            //chora = "Hora: " + hora + ":" + minutos + ":" + segundos + " " + dn;
+            chora = hora + ":" + minutos + ":" + segundos + " " + dn;
+
+            //document.all.Data_Hora.innerHTML= cdata + " " + chora;
+            document.all.dData.innerHTML= cdata; 
+            document.all.hHora.innerHTML= chora;
+            controle();
+            }
+
+            function controle()
+            {
+            setTimeout("HoraAtual()", 10);
+            }
+function TABLE1_onclick() {
+
+}
+
+    </script>
+
+</body>
+</html>

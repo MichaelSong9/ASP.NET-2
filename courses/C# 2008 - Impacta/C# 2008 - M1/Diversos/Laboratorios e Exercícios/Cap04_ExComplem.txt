@@ -1,0 +1,20 @@
+Exercícios Complementares
+
+1. Na expressão System.IO.Directory.GetFiles("C:\teste"), qual parte é o namespace, qual é a classe, qual é o método e qual é o parâmetro?
+Resposta: 
+Namespace: System.IO
+Classe: Directory
+Método: GetFiles
+Parâmetro: "C:\teste"
+
+2. Qual palavra reservada é utilizada para que o compilador procure uma classe em um namespace automaticamente, sem precisar digitar o namespace antes do nome da classe? 
+Resposta:  using
+
+3. Qual é a sintaxe para instanciar uma classe chamada Produto em uma variável chamada objProduto?
+Resposta: Produto objProduto= New Produto()
+
+4. Para que uma variável de uma classe seja visível por outra classe, qual modificador deve ser utilizado? 
+Resposta: public
+
+5. Qual é o valor de x após a expressão x=5+3*2+2/2
+Resposta: 37

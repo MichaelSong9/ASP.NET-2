@@ -1,0 +1,7 @@
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.csproj.GenerateResource.Cache
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\bin\Debug\Capitulo08_Laboratorio01.dll
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\bin\Debug\Capitulo08_Laboratorio01.pdb
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.dll
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.pdb
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.FuncionariosCap08.resources

@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\bin\Debug\Capitulo06_Lab01.exe
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\bin\Debug\Capitulo06_Lab01.pdb
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\obj\Debug\Capitulo06_Lab01.Form1.resources
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\obj\Debug\Capitulo06_Lab01.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\obj\Debug\Capitulo06_Lab01.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\obj\Debug\Capitulo06_Lab01.exe
+C:\[ CSharp-30-08-09 ]\Capitulo06_Lab01\Capitulo06_Lab01\obj\Debug\Capitulo06_Lab01.pdb

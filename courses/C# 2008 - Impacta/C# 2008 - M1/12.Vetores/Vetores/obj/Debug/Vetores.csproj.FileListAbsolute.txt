@@ -1,0 +1,16 @@
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\bin\Debug\Vetores.exe
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\obj\Debug\Vetores.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\obj\Debug\Vetores.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\obj\Debug\Vetores.exe
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\obj\Debug\Vetores.pdb
+C:\[ CSharp-30-08-09 ]\12.Vetores\Vetores\obj\Debug\Vetores.frmVetores.resources
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\obj\Debug\Vetores.exe
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\obj\Debug\Vetores.pdb
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\bin\Debug\Vetores.exe
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\bin\Debug\Vetores.pdb
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\obj\Debug\Vetores.frmVetores.resources
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\obj\Debug\Vetores.Properties.Resources.resources
+C:\Documentos\Programação\Codigos\C# 2008 - M1\12.Vetores\Vetores\obj\Debug\Vetores.csproj.GenerateResource.Cache

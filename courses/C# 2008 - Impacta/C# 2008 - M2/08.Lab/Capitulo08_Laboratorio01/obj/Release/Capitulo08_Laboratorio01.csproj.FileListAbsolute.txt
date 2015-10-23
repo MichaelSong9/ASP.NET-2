@@ -1,0 +1,14 @@
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\bin\Release\Capitulo08_Laboratorio01.dll
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\bin\Release\Capitulo08_Laboratorio01.pdb
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\ResolveAssemblyReference.cache
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.FuncionariosCap08.resources
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.csproj.GenerateResource.Cache
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.dll
+E:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.pdb
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\bin\Release\Capitulo08_Laboratorio01.dll
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\bin\Release\Capitulo08_Laboratorio01.pdb
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.FuncionariosCap08.resources
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.dll
+C:\Csharp2008-25-10-2009\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Release\Capitulo08_Laboratorio01.pdb

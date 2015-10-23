@@ -1,0 +1,8 @@
+C:\CSharp30082009\Grid\Grid\obj\Debug\ResolveAssemblyReference.cache
+C:\CSharp30082009\Grid\Grid\obj\Debug\Grid.Form1.resources
+C:\CSharp30082009\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\CSharp30082009\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.Cache
+C:\CSharp30082009\Grid\Grid\bin\Debug\Grid.exe
+C:\CSharp30082009\Grid\Grid\bin\Debug\Grid.pdb
+C:\CSharp30082009\Grid\Grid\obj\Debug\Grid.exe
+C:\CSharp30082009\Grid\Grid\obj\Debug\Grid.pdb

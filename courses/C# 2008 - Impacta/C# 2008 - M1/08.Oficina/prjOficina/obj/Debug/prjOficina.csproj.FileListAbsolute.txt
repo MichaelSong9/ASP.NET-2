@@ -1,0 +1,18 @@
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\bin\Debug\prjOficina.exe
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\bin\Debug\prjOficina.pdb
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.oficinaForm.resources
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.Properties.Resources.resources
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.csproj.GenerateResource.Cache
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.exe
+C:\Hanna CSharp 13072009\Projetos\prjOficina\prjOficina\obj\Debug\prjOficina.pdb
+C:\CSharp30082009\prjOficina\prjOficina\obj\Debug\prjOficina.exe
+C:\CSharp30082009\prjOficina\prjOficina\obj\Debug\prjOficina.pdb
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\obj\Debug\prjOficina.exe
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\obj\Debug\prjOficina.pdb
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\obj\Debug\prjOficina.oficinaForm.resources
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\obj\Debug\prjOficina.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\obj\Debug\prjOficina.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\bin\Debug\prjOficina.exe
+C:\[ CSharp-30-08-09 ]\8.Oficina\prjOficina\bin\Debug\prjOficina.pdb

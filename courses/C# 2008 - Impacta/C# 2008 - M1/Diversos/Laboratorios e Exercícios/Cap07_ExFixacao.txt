@@ -1,0 +1,56 @@
+Exercícios de fixação
+
+1. Para um campo ser visível apenas na classe onde ele está declarado, que palavra de ser usada?
+
+a) abstract
+b) private
+c) sealed
+d) protected
+e) public
+
+Resposta: B
+
+2. Para um campo ser utilizado em qualquer lugar do programa, que modificador deve ser usado?
+
+a) private
+b) general
+c) abstrct
+d) public
+e) protected
+
+Resposta: D
+
+3. Que palavra deve ser utilizada em um campo para definir que ele é vivsível apenas na classe em questão e nas derivadas?
+
+a) public
+b) protected
+c) internal
+d) private
+e) derivate
+
+Resposta: B
+
+4. Qual é o erro da classe abaixo?
+public class Teste:IDados, IProduto,ClasseBase
+{
+	.....
+}
+
+a) Está herdando mais de uma classe
+b) Está herdando de mais de uma interface
+c) A classe base deve ser a primeira da lista
+d) Não pode herdar de interface e classes
+e) A interface deve ser em letras minúsculas
+
+Resposta: C
+
+5. Se uma classe chama-se "Rotinas" e em lugar do programa encontra-se o comando "Rotinas.MostrarVersão()", esse método (MostrarVersão) está marcado como:
+
+a) abstract
+b) static
+c) sealed
+d) private
+e) override
+
+Resposta: B
+

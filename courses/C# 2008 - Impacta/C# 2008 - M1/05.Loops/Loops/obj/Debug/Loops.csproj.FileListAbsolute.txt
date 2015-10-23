@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\bin\Debug\Loops.exe
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\bin\Debug\Loops.pdb
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\obj\Debug\Loops.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\obj\Debug\Loops.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\obj\Debug\Loops.exe
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\obj\Debug\Loops.pdb
+C:\[ CSharp-30-08-09 ]\Thiago\Loops\Loops\obj\Debug\Loops.frmLaços.resources

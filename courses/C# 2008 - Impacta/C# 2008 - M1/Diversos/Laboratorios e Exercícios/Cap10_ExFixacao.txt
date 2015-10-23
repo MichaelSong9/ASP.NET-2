@@ -1,0 +1,52 @@
+Exercícios de fixação
+
+1. Que classe e método é responsável por inicializar uma aplicação Windows, carregando uma instância de um formulário
+
+a) Application.Form()
+b) Form.Open()
+c) Application.Run()
+d) Run.Application()
+e) Form.Application()
+
+Resposta: C
+
+2. Qual é o controle adequado para se obter o estado civil de um usuário (solteiro, casado ou viúvo)
+
+a) CheckBox
+b) RadioButton
+c) Button
+d) LinkButton
+e) Form
+
+Resposta: B
+
+3. Que controles são adequados para que o usuário escolha alguns itens de uma lista
+
+a) ListBox
+b) CheckListBox
+c) ComboBox
+d) Button
+e) TextBox
+
+Resposta: A e B
+
+4.  Qual é a classe que pode ser usada para definir propriedades de uma página que vai ser impressa
+
+a) ColorDialog
+b) PrintDialog
+c) PageSetupDialog
+d) PrintSetupDialog
+e) FontDialog
+
+Resposta: C
+
+5. Como é possível exibir uma janela que bloqueie a janela atual de modo que o usuário tenha que fechá-la para o programa continuar
+
+a) menuForm.ShowModal()
+b) menuForm.ShowDialog()
+c) menuForm.Show()
+d) menuForm.Show(1)
+e) menuForm.showExclusive()
+
+Resposta: B
+

@@ -1,0 +1,52 @@
+Exercícios Complementares
+
+1. Escreva uma classe chamada Funcionario que defina um campo público do tipo string chamado Nome e um campo privado do tipo decimal chamado Salario.
+Resposta: 
+class Funcionario
+{
+	public string Nome:
+	private decimal Salario;
+}
+
+
+2. Em relação a métodos, o que significa o modificador Virtual? E qual a diferença entre ele e Abstract?
+Resposta: 
+O modificador Virtual indica que um método PODE ser obreposto na classe derivada e o modificador Abstract indica que o método DEVE ser sobreposto na classe derivada. Além disso, o método declarado como abstract não tem implementação.
+
+
+3. O que é um objeto?
+Resposta:
+É uma cópia de uma classe na memória. Chamamos essa cópia de instância da classe.
+
+
+4. Em um projeto com muitas classes, que estrutura pode ser usada para dar uma uniformidade no nome dos métodos?
+Resposta:
+Interfaces.
+
+5. Escreva uma classe chamada Brinquedo que seja derivada de uma classe chamada Produto.
+Reposta:
+class Brinquedo:Produto
+{
+	....
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

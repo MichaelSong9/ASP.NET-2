@@ -1,0 +1,8 @@
+C:\CS25102009\Generico\Generico\obj\Debug\ResolveAssemblyReference.cache
+C:\CS25102009\Generico\Generico\obj\Debug\Generico.genericoForm.resources
+C:\CS25102009\Generico\Generico\obj\Debug\Generico.Properties.Resources.resources
+C:\CS25102009\Generico\Generico\obj\Debug\Generico.csproj.GenerateResource.Cache
+C:\CS25102009\Generico\Generico\bin\Debug\Generico.exe
+C:\CS25102009\Generico\Generico\bin\Debug\Generico.pdb
+C:\CS25102009\Generico\Generico\obj\Debug\Generico.exe
+C:\CS25102009\Generico\Generico\obj\Debug\Generico.pdb

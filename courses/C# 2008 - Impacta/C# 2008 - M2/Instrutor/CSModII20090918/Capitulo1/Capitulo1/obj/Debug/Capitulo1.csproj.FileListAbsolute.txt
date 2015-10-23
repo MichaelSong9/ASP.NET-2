@@ -1,0 +1,8 @@
+C:\CSModuloII20090918\Capitulo1\Capitulo1\obj\Debug\Exemplo01Pag12.exe
+C:\CSModuloII20090918\Capitulo1\Capitulo1\obj\Debug\Exemplo01Pag12.pdb
+C:\CSModuloII20090918\Capitulo1\Capitulo1\bin\Debug\Exemplo01Pag12.exe
+C:\CSModuloII20090918\Capitulo1\Capitulo1\bin\Debug\Exemplo01Pag12.pdb
+C:\CSModuloII20090918\Capitulo1\Capitulo1\obj\Debug\ResolveAssemblyReference.cache
+C:\CSModuloII20090918\Capitulo1\Capitulo1\obj\Debug\Exemplo01Pag12.Form1.resources
+C:\CSModuloII20090918\Capitulo1\Capitulo1\obj\Debug\Exemplo01Pag12.Properties.Resources.resources
+C:\CSModuloII20090918\Capitulo1\Capitulo1\obj\Debug\Capitulo1.csproj.GenerateResource.Cache

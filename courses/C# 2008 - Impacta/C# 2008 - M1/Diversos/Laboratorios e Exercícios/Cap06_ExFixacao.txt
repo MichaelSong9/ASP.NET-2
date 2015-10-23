@@ -1,0 +1,52 @@
+Exercícios de fixação
+
+1. Para saber o tamanho de uma coleção e de um array, usamos, respectivamente:
+
+a) Propriedade Lenght e o Método Add.
+b) Propriedades Count e Lenght.
+c) Propriedades Lenght e Count.
+d) Métodos Count() e Lenght().
+e) Função Len()
+
+Resposta: B
+
+2. Qual é o melhor objeto para guardar uma lista com nomes e e-mails
+
+a) Array
+b) ArrayList
+c) HashTable
+d) Stack
+e) Queue
+
+Resposta: C
+
+3. Qual é a melhor classe para guardar uma lista de strings, onde no decorrer do programa, alguns itens serão inseridos e outros serão excluídos
+
+a) Array
+b) HashTable
+c) ArrayList
+d) Queue
+e) string
+
+Resposta: C
+
+4. Qual é o tipo de objeto de cada item de um HashTable
+
+a) Object
+b) String
+c) Array
+d) DictionaryEntry
+e) DataRow
+
+Resposta: D
+
+5. Como se obtém o acesso ao primeiro item de uma coleção
+
+a) varColecao[1]
+b) varColecao[0]
+c) varColecao.GetFirst()
+d) varColecao.MoveFirst();
+e) varColecao[varColecao.Count-1]
+
+Resposta: B
+

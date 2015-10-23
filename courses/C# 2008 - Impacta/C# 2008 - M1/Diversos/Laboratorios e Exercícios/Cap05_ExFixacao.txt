@@ -1,0 +1,51 @@
+Exercícios de fixação
+
+1. Qual é ocomando utilizado para disparar um erro?
+
+a) Dispath
+b) Error
+c) Exception
+d) throw
+e) Err
+
+Resposta: D
+
+2. Qual é a classe utilizada para capturar um erro quando um usuário digita um número inválido?
+
+a) SqlException
+b) OracleException
+c) DivideByZeroException
+d) ErrorException
+e) FormatException
+
+Resposta: E
+
+3. Como podemos ter certeza que a conexão com o banco de dados foi fechada, dentro de um bloco try...catch?
+
+a) Usar finally
+b) Usar vários catch
+c) Usar vários try
+d) Não é possível
+e) Isto ocorre automaticamente
+
+Resposta: A
+
+4. Em um textBox onde deveria ser digitada a idade, o usuário digitou o número 300, e o tipo de variável é byte. Que Exceptionn captura corretamente esse erro?
+
+a) SqlException
+b) OverFlowException
+c) DivideByZeroException
+d) ErrorException
+e) FormatException
+
+Resposta: B
+
+5. Em uma estrutura com vários "catchs", qual é a ordem correta dos Exceptions?
+
+a) FormatException, Exception, OverFlowException
+b) FormatException, OverFlowException, Exception
+c) Exception, FormatException, OverFlowException
+d) Exception, OverFlowException, FormatException
+e) Tanto faz a ordem
+
+Resposta: B

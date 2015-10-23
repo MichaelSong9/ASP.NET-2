@@ -1,0 +1,3 @@
+X:\Paulista20\Diurno\Instrutor\Hanna VBNet 09022009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.exe
+X:\Paulista20\Diurno\Instrutor\Hanna VBNet 09022009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.xml
+X:\Paulista20\Diurno\Instrutor\Hanna VBNet 09022009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.pdb

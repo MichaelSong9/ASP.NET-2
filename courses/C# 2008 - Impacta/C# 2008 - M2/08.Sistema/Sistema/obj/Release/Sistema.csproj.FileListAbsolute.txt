@@ -1,0 +1,5 @@
+C:\Csharp2008-25-10-2009\Sistema\Sistema\bin\Release\Sistema.dll
+C:\Csharp2008-25-10-2009\Sistema\Sistema\bin\Release\Sistema.pdb
+C:\Csharp2008-25-10-2009\Sistema\Sistema\obj\Release\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\Sistema\Sistema\obj\Release\Sistema.dll
+C:\Csharp2008-25-10-2009\Sistema\Sistema\obj\Release\Sistema.pdb

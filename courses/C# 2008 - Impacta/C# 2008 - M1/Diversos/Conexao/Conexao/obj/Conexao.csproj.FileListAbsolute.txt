@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\obj\Debug\Conexao.exe
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\obj\Debug\Conexao.pdb
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\obj\Debug\Conexao.Form1.resources
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\obj\Debug\Conexao.Properties.Resources.resources
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\obj\Debug\Conexao.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\bin\Debug\Conexao.exe
+C:\Documents and Settings\Administrator.SERVER12\Desktop\Conexao\Conexao\bin\Debug\Conexao.pdb
+C:\Hanna C# 060208a190208\Conexao\Conexao\obj\Debug\Conexao.exe
+C:\Hanna C# 060208a190208\Conexao\Conexao\obj\Debug\Conexao.pdb
+C:\Hanna C# 060208a190208\Conexao\Conexao\bin\Debug\Conexao.exe
+C:\Hanna C# 060208a190208\Conexao\Conexao\bin\Debug\Conexao.pdb
+C:\Hanna C# 060208a190208\Conexao\Conexao\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna C# 060208a190208\Conexao\Conexao\obj\Debug\Conexao.Form1.resources
+C:\Hanna C# 060208a190208\Conexao\Conexao\obj\Debug\Conexao.Properties.Resources.resources
+C:\Hanna C# 060208a190208\Conexao\Conexao\obj\Debug\Conexao.csproj.GenerateResource.Cache

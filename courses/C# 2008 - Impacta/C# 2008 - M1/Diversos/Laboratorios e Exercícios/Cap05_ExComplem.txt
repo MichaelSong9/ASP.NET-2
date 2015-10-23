@@ -1,0 +1,37 @@
+Exercícios Complementares
+
+1. Escreva um bloco try...catch que capture uma digitação de data inválida
+Resposta: 
+try
+{
+	DateTime d=Convert.ToDateTime(dataTextBox.text);
+}
+catch(FormatException ex)
+{
+	MessageBox.Show("Data Inválida");
+}
+
+2. Com vários blocos catch, que regra deve ser aplicada em relação à ordem em eles se encontram?
+Resposta:  Em primeiro lugar, devem vir os blocos catch com classes Exception mais específicos (classes derivadas) e depois as mais genéricas (classes bases) 
+
+3. Qual o erro do bloco abaixo?
+try
+{
+	int x =Convert.ToInteger(numeroTextBox.text);
+}
+catch
+{
+	MessageBox.Show("Número inválido")
+}
+finally
+{
+	MessageBox.Show("O resultado é " + x);
+}
+
+Resposta: A variável x não é visível no bloco finally pois foi declarada no bloco try
+
+4. Que propriedade da classe Exception informa uma descrição do erro?
+Resposta: Message
+
+5. Qual o método da classe Exception que fornece o maior número de informações sobre um erro ocorrido?
+Resposta: ToString() 

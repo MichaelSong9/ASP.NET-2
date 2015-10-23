@@ -1,0 +1,8 @@
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\bin\Debug\Lab.Cap06.exe
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\bin\Debug\Lab.Cap06.pdb
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\obj\Debug\Lab.Cap06.frmCAP6.resources
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\obj\Debug\Lab.Cap06.Properties.Resources.resources
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\obj\Debug\Lab.Cap06.csproj.GenerateResource.Cache
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\obj\Debug\Lab.Cap06.exe
+C:\Csharp2008-25-10-2009\Lab.Cap06\Lab.Cap06\obj\Debug\Lab.Cap06.pdb

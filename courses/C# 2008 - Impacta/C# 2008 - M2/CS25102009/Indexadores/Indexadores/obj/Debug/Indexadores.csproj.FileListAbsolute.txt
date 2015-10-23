@@ -1,0 +1,8 @@
+C:\CS25102009\Indexadores\Indexadores\bin\Debug\Indexadores.exe
+C:\CS25102009\Indexadores\Indexadores\bin\Debug\Indexadores.pdb
+C:\CS25102009\Indexadores\Indexadores\obj\Debug\ResolveAssemblyReference.cache
+C:\CS25102009\Indexadores\Indexadores\obj\Debug\Indexadores.Form1.resources
+C:\CS25102009\Indexadores\Indexadores\obj\Debug\Indexadores.Properties.Resources.resources
+C:\CS25102009\Indexadores\Indexadores\obj\Debug\Indexadores.csproj.GenerateResource.Cache
+C:\CS25102009\Indexadores\Indexadores\obj\Debug\Indexadores.exe
+C:\CS25102009\Indexadores\Indexadores\obj\Debug\Indexadores.pdb

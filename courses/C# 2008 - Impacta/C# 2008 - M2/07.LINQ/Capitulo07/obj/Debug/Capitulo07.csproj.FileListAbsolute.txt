@@ -1,0 +1,9 @@
+C:\Grasso\Capitulo07\Capitulo07\bin\Debug\Capitulo07.exe
+C:\Grasso\Capitulo07\Capitulo07\bin\Debug\Capitulo07.pdb
+C:\Grasso\Capitulo07\Capitulo07\obj\Debug\ResolveAssemblyReference.cache
+C:\Grasso\Capitulo07\Capitulo07\obj\Debug\Capitulo07.Properties.Resources.resources
+C:\Grasso\Capitulo07\Capitulo07\obj\Debug\Capitulo07.csproj.GenerateResource.Cache
+C:\Grasso\Capitulo07\Capitulo07\obj\Debug\Capitulo07.exe
+C:\Grasso\Capitulo07\Capitulo07\obj\Debug\Capitulo07.pdb
+C:\Grasso\Capitulo07\Capitulo07\obj\Debug\Capitulo07.Form1.resources
+C:\Grasso\Capitulo07\Capitulo07\bin\Debug\Capitulo07.exe.config

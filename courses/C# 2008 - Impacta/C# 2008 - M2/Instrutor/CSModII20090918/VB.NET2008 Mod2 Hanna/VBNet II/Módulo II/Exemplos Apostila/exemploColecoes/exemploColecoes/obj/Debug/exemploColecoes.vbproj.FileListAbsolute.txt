@@ -1,0 +1,10 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\bin\Debug\exemploColecoes.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\bin\Debug\exemploColecoes.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\bin\Debug\exemploColecoes.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\obj\Debug\exemploColecoes.exemploForm.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\obj\Debug\exemploColecoes.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\obj\Debug\exemploColecoes.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\obj\Debug\exemploColecoes.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\obj\Debug\exemploColecoes.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploColecoes\obj\Debug\exemploColecoes.pdb

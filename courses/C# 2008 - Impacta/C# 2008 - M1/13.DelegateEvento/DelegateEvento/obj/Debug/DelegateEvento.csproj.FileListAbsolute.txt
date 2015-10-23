@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\bin\Debug\DelegateEvento.exe
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\bin\Debug\DelegateEvento.pdb
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\obj\Debug\DelegateEvento.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\obj\Debug\DelegateEvento.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\obj\Debug\DelegateEvento.exe
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\obj\Debug\DelegateEvento.pdb
+C:\[ CSharp-30-08-09 ]\13.DelegateEvento\DelegateEvento\obj\Debug\DelegateEvento.frmDelegate.resources

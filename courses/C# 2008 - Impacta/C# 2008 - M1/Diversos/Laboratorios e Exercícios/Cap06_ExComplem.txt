@@ -1,0 +1,54 @@
+Exercícios Complementares
+
+1. Escreva o código necessário para criar, percorrer e exibir em um messageBox os elementos de um array de números inteiros chamado "Numeros".
+Resposta;
+int[] Numeros={7,3,4,1,67,-2,3};
+foreach(int numero in Numeros)
+{
+	MessageBox.Show(numero);
+}
+
+2. Escreva o código necessário para localizar, em um array de nomes chamado "Lista", o nome "José".
+Resposta:
+if (Lista.IndexOf("José")>=0)
+{
+	MessageBox.Show(Lista[ Lista.IndexOf("José")]);
+}
+
+3. Escreva o código necessário para exibir o elemento atual de uma instância da classe Stack().
+Resposta:
+String valor=objStack.Peek().ToString();
+
+4. Qual é o método utilizado para adicionar itens no final em uma coleção
+Resposta:
+Add
+
+5. Considere a coleção abaixo. Como devemos colocar a palavra "Maçã" entre "Banana" e "Laranja"
+Dim lista as new System.Colletions.ArrayList()
+Lista.Add("Pêra")
+Lista.Add("Banana")
+Lista.Add("Laranja")
+Lista.Add("Melancia")
+Reposta:
+Lista.Insert(2,"Maçã");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

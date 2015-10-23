@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instalador", "Instalador\Instalador.csproj", "{5BF002F3-1663-43B0-8195-42C8CBDC01D6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{CB0EC0D1-630E-4FEA-9BE8-4EEA9E98B624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF002F3-1663-43B0-8195-42C8CBDC01D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF002F3-1663-43B0-8195-42C8CBDC01D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF002F3-1663-43B0-8195-42C8CBDC01D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF002F3-1663-43B0-8195-42C8CBDC01D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0EC0D1-630E-4FEA-9BE8-4EEA9E98B624}.Debug|Any CPU.ActiveCfg = Debug
+		{CB0EC0D1-630E-4FEA-9BE8-4EEA9E98B624}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

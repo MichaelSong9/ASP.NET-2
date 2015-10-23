@@ -1,0 +1,16 @@
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\ResolveAssemblyReference.cache
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.Form1.resources
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.Properties.Resources.resources
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.csproj.GenerateResource.Cache
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\bin\Debug\Capitulo02_Laboratorio01.exe
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\bin\Debug\Capitulo02_Laboratorio01.pdb
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.exe
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Exemplos Apostila\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.pdb
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.exe
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.pdb
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\bin\Debug\Capitulo02_Laboratorio01.exe
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\bin\Debug\Capitulo02_Laboratorio01.pdb
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\ResolveAssemblyReference.cache
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.Properties.Resources.resources
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.csproj.GenerateResource.Cache
+G:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo02_Laboratorio01\Capitulo02_Laboratorio01\obj\Debug\Capitulo02_Laboratorio01.Cap02_Lab01Form.resources

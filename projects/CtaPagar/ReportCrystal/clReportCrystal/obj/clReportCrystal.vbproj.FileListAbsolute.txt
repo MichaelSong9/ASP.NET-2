@@ -1,0 +1,14 @@
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\bin\Release\clReportCrystal.dll
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\bin\Release\clReportCrystal.pdb
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\bin\Release\clReportCrystal.xml
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\bin\Release\ConexaoBanco.dll
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\bin\Release\DataProtection.dll
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\bin\Release\ConexaoBanco.pdb
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\bin\Release\ConexaoBanco.xml
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\obj\Release\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\obj\Release\clReportCrystal.crRelPagTit.rpt
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\obj\Release\clReportCrystal.Resources.resources
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\obj\Release\clReportCrystal.vbproj.GenerateResource.Cache
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\obj\Release\clReportCrystal.dll
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\obj\Release\clReportCrystal.xml
+C:\Inetpub\wwwroot\CtaPagar\ReportCrystal\clReportCrystal\obj\Release\clReportCrystal.pdb

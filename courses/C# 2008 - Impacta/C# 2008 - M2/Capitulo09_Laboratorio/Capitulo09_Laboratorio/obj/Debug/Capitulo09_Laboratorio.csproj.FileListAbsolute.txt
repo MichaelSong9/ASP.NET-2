@@ -1,0 +1,8 @@
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\bin\Debug\Capitulo09_Laboratorio.exe
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\bin\Debug\Capitulo09_Laboratorio.pdb
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\obj\Debug\Capitulo09_Laboratorio.Form1.resources
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\obj\Debug\Capitulo09_Laboratorio.Properties.Resources.resources
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\obj\Debug\Capitulo09_Laboratorio.csproj.GenerateResource.Cache
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\obj\Debug\Capitulo09_Laboratorio.exe
+C:\Grasso\Capitulo09_Laboratorio\Capitulo09_Laboratorio\obj\Debug\Capitulo09_Laboratorio.pdb

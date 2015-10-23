@@ -1,0 +1,17 @@
+CRIAçÃO DE APLICATIVO EM CAMADAS
+--------------------------------------
+
+
+1) Criar uma solução em branco
+2) Adicionar na solução um projeto
+     Class Library (Biblioteca de Classe)
+       Loja.Modelos
+
+3) Adicionar na solução um projeto
+      Windows Application
+        Loja.UI.Intranet
+
+4) Adicionar um referência no projeto
+     Loja.UI.Intranet ao Projeto Loja.Modelos
+
+5) Criar um banco de dados chamado LOJA

@@ -1,0 +1,5 @@
+C:\Thiago\Projects\BlobASPNet\BlobASPNet\bin\BlobASPNet.dll
+C:\Thiago\Projects\BlobASPNet\BlobASPNet\bin\BlobASPNet.pdb
+C:\Thiago\Projects\BlobASPNet\BlobASPNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Thiago\Projects\BlobASPNet\BlobASPNet\obj\Debug\BlobASPNet.dll
+C:\Thiago\Projects\BlobASPNet\BlobASPNet\obj\Debug\BlobASPNet.pdb

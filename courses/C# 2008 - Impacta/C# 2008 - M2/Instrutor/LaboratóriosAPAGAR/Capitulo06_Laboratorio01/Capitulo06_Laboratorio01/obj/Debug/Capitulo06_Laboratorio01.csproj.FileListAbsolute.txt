@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\bin\Debug\Capitulo06_Laboratorio01.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\bin\Debug\Capitulo06_Laboratorio01.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.Cap06_Lab01Form.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2008\Projects\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.Form1.resources
+F:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.exe
+F:\Impacta\Editora\CSharp\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo06_Laboratorio01\Capitulo06_Laboratorio01\obj\Debug\Capitulo06_Laboratorio01.pdb

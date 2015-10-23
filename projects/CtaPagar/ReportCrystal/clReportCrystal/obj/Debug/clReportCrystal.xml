@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+clReportCrystal
+</name>
+</assembly>
+<members>
+<member name="T:clReportCrystal.clsCrystal">
+	<summary>
+ Summary description for Class1
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.exe
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.xml
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.pdb
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\bin\Release\prjCapturaTela.exe
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\bin\Release\prjCapturaTela.pdb
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\bin\Release\prjCapturaTela.xml
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\ResolveAssemblyReference.cache
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.capturaTelaForm.resources
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.fundoForm.resources
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.Resources.resources
+X:\Paulista48\Noturno\Instrutor\Hanna VBNet II 03082009\Diversos\prjCapturaTela VB\prjCapturaTela\obj\Release\prjCapturaTela.vbproj.GenerateResource.Cache

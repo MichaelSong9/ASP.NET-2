@@ -1,0 +1,22 @@
+﻿body 
+{
+	font-family:Verdana;
+	font-size:10px;
+}
+
+h1
+{
+	font-size:20px;
+	border-bottom:1 px solid black;
+}
+
+h2
+{
+	   font-size:16px;
+}
+
+H6
+{
+	font-size:9px;
+	border-top:1px solid black;
+}

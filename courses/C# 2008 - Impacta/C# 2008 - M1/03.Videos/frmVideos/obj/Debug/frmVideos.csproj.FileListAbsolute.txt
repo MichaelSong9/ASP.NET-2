@@ -1,0 +1,26 @@
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\bin\Debug\frmVideos.exe
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\bin\Debug\frmVideos.pdb
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\bin\Debug\Interop.WMPLib.dll
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\bin\Debug\AxInterop.WMPLib.dll
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\Interop.WMPLib.dll
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\AxInterop.WMPLib.dll
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\frmVideos.csproj.ResolveComReference.cache
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\frmVideos.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\frmVideos.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\frmVideos.exe
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\frmVideos.pdb
+C:\[ CSharp-30-08-09 ]\Thiago\frmVideos\frmVideos\obj\Debug\frmVideos.frmVideos.resources
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\Interop.WMPLib.dll
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\AxInterop.WMPLib.dll
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\frmVideos.csproj.ResolveComReference.cache
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\frmVideos.exe
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\frmVideos.pdb
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\bin\Debug\frmVideos.exe
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\bin\Debug\frmVideos.pdb
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\bin\Debug\Interop.WMPLib.dll
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\bin\Debug\AxInterop.WMPLib.dll
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\frmVideos.frmVideos.resources
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\frmVideos.Properties.Resources.resources
+C:\Documentos\Compartilhar\Csharp2008\3.Videos\frmVideos\obj\Debug\frmVideos.csproj.GenerateResource.Cache

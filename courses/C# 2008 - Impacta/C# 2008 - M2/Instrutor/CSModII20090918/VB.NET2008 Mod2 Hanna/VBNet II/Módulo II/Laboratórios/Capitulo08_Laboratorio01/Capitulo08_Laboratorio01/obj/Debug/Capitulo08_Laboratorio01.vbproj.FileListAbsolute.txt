@@ -1,0 +1,13 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\bin\Debug\Capitulo08_Laboratorio01.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\bin\Debug\Capitulo08_Laboratorio01.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\bin\Debug\Capitulo08_Laboratorio01.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.cap08_Lab01Form.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo08_Laboratorio01\Capitulo08_Laboratorio01\obj\Debug\Capitulo08_Laboratorio01.pdb

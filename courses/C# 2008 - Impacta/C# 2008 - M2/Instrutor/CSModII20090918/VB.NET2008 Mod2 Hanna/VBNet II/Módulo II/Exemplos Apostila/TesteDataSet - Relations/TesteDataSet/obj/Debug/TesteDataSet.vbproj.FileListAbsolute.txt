@@ -1,0 +1,20 @@
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\bin\Debug\TesteDataSet.exe
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\bin\Debug\TesteDataSet.pdb
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\bin\Debug\TesteDataSet.xml
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.exe
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.xml
+C:\Documents and Settings\cliente\Desktop\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\bin\Debug\TesteDataSet.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\bin\Debug\TesteDataSet.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\bin\Debug\TesteDataSet.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\obj\Debug\WindowsApplication1.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.vbproj.GenerateResource.Cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\obj\Debug\TesteDataSet.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\TesteDataSet\TesteDataSet\obj\Debug\WindowsApplication1.exemploForm.resources

@@ -1,0 +1,17 @@
+SCC = This is a Source Code Control file
+
+[RelCaptacao.csproj]
+SCC_Aux_Path = "\\cclteste\VSS Database\Captacao"
+SCC_Project_Name = "$/Relatorio/RelCaptacao", IEBAAAAA
+
+[RelCaptacao.sln]
+SCC_Aux_Path = "\\cclteste\VSS Database\Captacao"
+SCC_Project_Name = "$/Relatorio/RelCaptacao/RelCaptacao/RelCaptacao", MGBAAAAA
+
+[PesquisaCaptacao.csproj]
+SCC_Aux_Path = "\\Cclteste\VSS Database\Captacao"
+SCC_Project_Name = "$/PesquisaCaptacao/PesquisaCaptacao", UJBAAAAA
+
+[PesquisaCaptacao.sln]
+SCC_Aux_Path = "\\Cclteste\VSS Database\Captacao"
+SCC_Project_Name = "$/PesquisaCaptacao/PesquisaCaptacao", UJBAAAAA

@@ -1,0 +1,18 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\bin\Release\Calculos.dll
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\bin\Release\Calculos.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\bin\Release\Calculos.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\obj\Release\Calculos.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\obj\Release\Calculos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\obj\Release\Calculos.dll
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\obj\Release\Calculos.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\Calculos\obj\Release\Calculos.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\bin\Release\Calculos.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\bin\Release\Calculos.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\bin\Release\Calculos.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\obj\Release\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\obj\Release\Calculos.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\obj\Release\Calculos.vbproj.GenerateResource.Cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\obj\Release\Calculos.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\obj\Release\Calculos.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\Calculos\Calculos\obj\Release\Calculos.pdb

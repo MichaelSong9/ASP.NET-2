@@ -1,0 +1,8 @@
+bin\Debug\Cap06_Lab1.exe
+bin\Debug\Cap06_Lab1.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cap06_Lab1.cadastroForm.resources
+obj\Debug\Cap06_Lab1.Properties.Resources.resources
+obj\Debug\Cap06_Lab1.csproj.GenerateResource.Cache
+obj\Debug\Cap06_Lab1.exe
+obj\Debug\Cap06_Lab1.pdb

@@ -1,0 +1,17 @@
+bin\Debug\AcessaExcel.exe
+bin\Debug\AcessaExcel.pdb
+bin\Debug\AcessaExcel.xml
+bin\Debug\Interop.Excel.dll
+bin\Debug\Interop.Office.dll
+bin\Debug\Interop.VBIDE.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.Excel.dll
+obj\Debug\Interop.Office.dll
+obj\Debug\Interop.VBIDE.dll
+obj\Debug\AcessaExcel.vbproj.ResolveComReference.cache
+obj\Debug\AcessaExcel.Form1.resources
+obj\Debug\AcessaExcel.Resources.resources
+obj\Debug\AcessaExcel.vbproj.GenerateResource.Cache
+obj\Debug\AcessaExcel.exe
+obj\Debug\AcessaExcel.xml
+obj\Debug\AcessaExcel.pdb

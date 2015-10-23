@@ -1,0 +1,10 @@
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\bin\Debug\prjValidaCPF.dll
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\bin\Debug\prjValidaCPF.pdb
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\obj\Debug\prjValidaCPF.dll
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\obj\Debug\prjValidaCPF.pdb
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\bin\Release\prjValidaCPF.dll
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\bin\Release\prjValidaCPF.pdb
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\obj\Release\ResolveAssemblyReference.cache
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\obj\Release\prjValidaCPF.dll
+C:\Hanna CSharp 24112008\prjValidaCPF\prjValidaCPF\obj\Release\prjValidaCPF.pdb

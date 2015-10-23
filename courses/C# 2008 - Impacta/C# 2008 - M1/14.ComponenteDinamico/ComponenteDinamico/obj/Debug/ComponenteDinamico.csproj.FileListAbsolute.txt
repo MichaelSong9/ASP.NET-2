@@ -1,0 +1,8 @@
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\bin\Debug\ComponenteDinamico.exe
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\bin\Debug\ComponenteDinamico.pdb
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\obj\Debug\ResolveAssemblyReference.cache
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\obj\Debug\ComponenteDinamico.Form1.resources
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\obj\Debug\ComponenteDinamico.Properties.Resources.resources
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\obj\Debug\ComponenteDinamico.csproj.GenerateResource.Cache
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\obj\Debug\ComponenteDinamico.exe
+C:\[ CSharp-30-08-09 ]\14.ComponenteDinamico\ComponenteDinamico\obj\Debug\ComponenteDinamico.pdb

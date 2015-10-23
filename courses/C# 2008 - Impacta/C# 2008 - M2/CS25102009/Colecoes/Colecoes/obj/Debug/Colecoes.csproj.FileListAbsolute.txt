@@ -1,0 +1,8 @@
+C:\CS25102009\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+C:\CS25102009\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+C:\CS25102009\Colecoes\Colecoes\obj\Debug\ResolveAssemblyReference.cache
+C:\CS25102009\Colecoes\Colecoes\obj\Debug\Colecoes.colecoesForm.resources
+C:\CS25102009\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+C:\CS25102009\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.Cache
+C:\CS25102009\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+C:\CS25102009\Colecoes\Colecoes\obj\Debug\Colecoes.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PrintScreen2.Form1.resources
+obj\Debug\PrintScreen2.Resources.resources
+obj\Debug\PrintScreen2.vbproj.GenerateResource.Cache
+bin\Debug\PrintScreen2.exe
+bin\Debug\PrintScreen2.pdb
+bin\Debug\PrintScreen2.xml
+obj\Debug\PrintScreen2.exe
+obj\Debug\PrintScreen2.xml
+obj\Debug\PrintScreen2.pdb

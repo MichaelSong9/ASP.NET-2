@@ -1,0 +1,18 @@
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\bin\Debug\Loja.BLL.dll
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\bin\Debug\Loja.BLL.pdb
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\bin\Debug\Loja.DAL.dll
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\bin\Debug\Loja.Modelo.dll
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\bin\Debug\Loja.Modelo.pdb
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\bin\Debug\Loja.DAL.pdb
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\obj\Debug\Loja.BLL.dll
+C:\Csharp2008-25-10-2009\BancoDadosMVC\Loja.BLL\obj\Debug\Loja.BLL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\bin\Debug\Loja.BLL.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\bin\Debug\Loja.BLL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\bin\Debug\Loja.DAL.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\bin\Debug\Loja.Modelo.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\bin\Debug\Loja.Modelo.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\bin\Debug\Loja.DAL.pdb
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\obj\Debug\Loja.BLL.dll
+C:\Documentos\Programação\C# 2008 - Impacta\C# 2008 - M2\07.BancoDadosMVC\Loja.BLL\obj\Debug\Loja.BLL.pdb

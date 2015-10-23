@@ -1,0 +1,42 @@
+Exercícios Complementares
+
+1. Qual é o tipo de laço apropriado quando sabemos quantas vezes um bloco de código precisa ser repetido?
+Resposta: for
+
+2. Qual é o tipo de laço apropriado quando não sabemos quantas vezes um bloco de código precisa ser repetido?
+Resposta: while
+
+3. Qual é o problema do programa que temos a seguir? Como podemos corrigí-lo?
+
+int x =10;
+while (x>1)
+{
+	MessageBox.Show(x.ToString())
+	x++;
+}
+
+Reposta: O programa está em loop infinito, para resolver basta mudar a expressão x++ para x--.
+
+4. Escreva o código necessário para o sistema exibir "Bom dia", "Boa tarde", "Boa noite", dependendo da hora em que é acessado. Para saber a hora (de 0 a 23), use a expressão "DateTime.Now.Hour"
+Resposta:
+
+if (DateTime.Now.Hour>17)
+{
+	Console.WriteLine("Boa noite");
+}
+else if (DateTime.Now.Hour>11)
+{
+	Console.WriteLine("Boa tarde");
+}
+else
+{
+	Console.WriteLine("Bom dia");
+}
+
+5. Qual será a saída do programa a seguir?
+for (int x=0;x>10;x++)
+{
+	MessageBox.Show("Olá");
+}
+
+Resposta: A mensagem não será exibida pois x começa menor que dez e a condição exije que x seja maior do que 10.

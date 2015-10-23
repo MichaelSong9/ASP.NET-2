@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\Documentos\PgtoProdutores\", "..\PgtoProdutores", "{DF7626D9-21C1-40AE-8210-CB3AC479BF81}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/PgtoProdutores"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Documentos\TESTE\PgtoProdutores\PgtoProdutores\PgtoProdutores\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\PgtoProdutores\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/PgtoProdutores"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Documentos\TESTE\PgtoProdutores\PgtoProdutores\PgtoProdutores\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\PgtoProdutores\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52966"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7626D9-21C1-40AE-8210-CB3AC479BF81}.Debug|.NET.ActiveCfg = Debug|.NET
+		{DF7626D9-21C1-40AE-8210-CB3AC479BF81}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

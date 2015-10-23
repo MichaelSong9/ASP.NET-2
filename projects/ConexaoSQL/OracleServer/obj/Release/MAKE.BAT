@@ -1,0 +1,2 @@
+C:\WINNT\Microsoft.NET\Framework\v1.1.4322\vbc.exe /target:library /out:OracleServer.DLL *.vb /r:System.dll /r:System.Data.dll /r:System.Xml.dll /r:System.Web.dll /r:System.Data.Odbc.Dll /r:System.EnterpriseServices.DLL
+pause

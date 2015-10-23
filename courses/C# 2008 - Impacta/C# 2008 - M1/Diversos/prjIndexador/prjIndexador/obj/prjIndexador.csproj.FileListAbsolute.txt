@@ -1,0 +1,8 @@
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\bin\Debug\prjIndexador.exe
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\bin\Debug\prjIndexador.pdb
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\obj\Debug\ResolveAssemblyReference.cache
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\obj\Debug\prjIndexador.indexadorForm.resources
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\obj\Debug\prjIndexador.Properties.Resources.resources
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\obj\Debug\prjIndexador.csproj.GenerateResource.Cache
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\obj\Debug\prjIndexador.exe
+C:\Hanna CSharp 250808\prjIndexador\prjIndexador\obj\Debug\prjIndexador.pdb

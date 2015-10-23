@@ -1,0 +1,5 @@
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.Modelos\bin\Debug\Oficina.Modelos.dll
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.Modelos\bin\Debug\Oficina.Modelos.pdb
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\ResolveAssemblyReference.cache
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\Oficina.Modelos.dll
+C:\Grasso\Capitulo06_Laboratorio02\Oficina.Modelos\obj\Debug\Oficina.Modelos.pdb

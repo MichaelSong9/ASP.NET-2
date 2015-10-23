@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prjOficina.clsGeral">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAQAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsGeral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjOficina.clsVeiculoInfo">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAJAAAAAAAAAQAAAAAAAAAAAAEUAAgAABEgAAAAAAAA=</HashCode>
+      <FileName>clsVeiculoInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjOficina.oficinaForm">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAQCAAABAAACCAABACAIQAARAAANBAAAEAAAA=</HashCode>
+      <FileName>oficinaForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjOficina.Program">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjOficina.Properties.Resources">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjOficina.Properties.Settings">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

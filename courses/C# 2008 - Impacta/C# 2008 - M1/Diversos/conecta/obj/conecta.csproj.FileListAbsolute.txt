@@ -1,0 +1,16 @@
+C:\conecta\obj\Debug\ResolveAssemblyReference.cache
+C:\conecta\obj\Debug\conecta.Form1.resources
+C:\conecta\obj\Debug\conecta.Properties.Resources.resources
+C:\conecta\obj\Debug\conecta.csproj.GenerateResource.Cache
+C:\conecta\bin\Debug\conecta.exe
+C:\conecta\bin\Debug\conecta.pdb
+C:\conecta\obj\Debug\conecta.exe
+C:\conecta\obj\Debug\conecta.pdb
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\obj\Debug\conecta.exe
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\obj\Debug\conecta.pdb
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\bin\Debug\conecta.exe
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\bin\Debug\conecta.pdb
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\obj\Debug\conecta.Form1.resources
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\obj\Debug\conecta.Properties.Resources.resources
+E:\Impacta\Treinamentos Ministrados\Diversos CSharp\conecta\obj\Debug\conecta.csproj.GenerateResource.Cache

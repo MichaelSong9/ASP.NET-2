@@ -1,0 +1,11 @@
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\bin\Debug\testeLINQtoENTITIES.exe.config
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\obj\Debug\testeLINQtoENTITIES.Form1.resources
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\obj\Debug\testeLINQtoENTITIES.Resources.resources
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\obj\Debug\testeLINQtoENTITIES.vbproj.GenerateResource.Cache
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\bin\Debug\testeLINQtoENTITIES.exe
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\bin\Debug\testeLINQtoENTITIES.pdb
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\bin\Debug\testeLINQtoENTITIES.xml
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\obj\Debug\testeLINQtoENTITIES.exe
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\obj\Debug\testeLINQtoENTITIES.xml
+C:\Documents and Settings\di3813\Desktop\testeLINQtoENTITIES\testeLINQtoENTITIES\obj\Debug\testeLINQtoENTITIES.pdb

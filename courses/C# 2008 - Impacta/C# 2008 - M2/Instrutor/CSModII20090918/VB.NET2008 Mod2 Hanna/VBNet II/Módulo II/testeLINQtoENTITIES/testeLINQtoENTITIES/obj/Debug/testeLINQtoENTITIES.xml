@@ -1,0 +1,609 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+testeLINQtoENTITIES
+</name>
+</assembly>
+<members>
+<member name="M:testeLINQtoENTITIES.NorthwindEntities.#ctor">
+	<summary>
+Initializes a new NorthwindEntities object using the connection string found in the 'NorthwindEntities' section of the application configuration file.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.#ctor(System.String)">
+	<summary>
+Initialize a new NorthwindEntities object.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+Initialize a new NorthwindEntities object.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Categories">
+	<summary>
+There are no comments for Categories in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Customers">
+	<summary>
+There are no comments for Customers in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Employees">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Order_Details">
+	<summary>
+There are no comments for Order_Details in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Orders">
+	<summary>
+There are no comments for Orders in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Products">
+	<summary>
+There are no comments for Products in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Region">
+	<summary>
+There are no comments for Region in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Shippers">
+	<summary>
+There are no comments for Shippers in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.NorthwindEntities.Suppliers">
+	<summary>
+There are no comments for Suppliers in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToCategories(testeLINQtoENTITIES.Categories)">
+	<summary>
+There are no comments for Categories in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToCustomers(testeLINQtoENTITIES.Customers)">
+	<summary>
+There are no comments for Customers in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToEmployees(testeLINQtoENTITIES.Employees)">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToOrder_Details(testeLINQtoENTITIES.Order_Details)">
+	<summary>
+There are no comments for Order_Details in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToOrders(testeLINQtoENTITIES.Orders)">
+	<summary>
+There are no comments for Orders in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToProducts(testeLINQtoENTITIES.Products)">
+	<summary>
+There are no comments for Products in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToRegion(testeLINQtoENTITIES.Region)">
+	<summary>
+There are no comments for Region in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToShippers(testeLINQtoENTITIES.Shippers)">
+	<summary>
+There are no comments for Shippers in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.NorthwindEntities.AddToSuppliers(testeLINQtoENTITIES.Suppliers)">
+	<summary>
+There are no comments for Suppliers in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.NorthwindEntities">
+	<summary>
+There are no comments for NorthwindEntities in the schema.
+</summary>
+</member><member name="M:testeLINQtoENTITIES.Categories.CreateCategories(System.Int32,System.String)">
+	<summary>
+Create a new Categories object.
+</summary>
+	<param name="categoryID">Initial value of CategoryID.</param>
+	<param name="categoryName">Initial value of CategoryName.</param>
+</member><member name="P:testeLINQtoENTITIES.Categories.CategoryID">
+	<summary>
+There are no comments for Property CategoryID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Categories.CategoryName">
+	<summary>
+There are no comments for Property CategoryName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Categories.Description">
+	<summary>
+There are no comments for Property Description in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Categories.Picture">
+	<summary>
+There are no comments for Property Picture in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Categories.Products">
+	<summary>
+There are no comments for Products in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Categories">
+	<summary>
+There are no comments for NorthwindModel.Categories in the schema.
+</summary>
+	<KeyProperties>
+CategoryID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Customers.CreateCustomers(System.String,System.String)">
+	<summary>
+Create a new Customers object.
+</summary>
+	<param name="customerID">Initial value of CustomerID.</param>
+	<param name="companyName">Initial value of CompanyName.</param>
+</member><member name="P:testeLINQtoENTITIES.Customers.CustomerID">
+	<summary>
+There are no comments for Property CustomerID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.CompanyName">
+	<summary>
+There are no comments for Property CompanyName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.ContactName">
+	<summary>
+There are no comments for Property ContactName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.ContactTitle">
+	<summary>
+There are no comments for Property ContactTitle in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.Address">
+	<summary>
+There are no comments for Property Address in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.City">
+	<summary>
+There are no comments for Property City in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.Region">
+	<summary>
+There are no comments for Property Region in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.PostalCode">
+	<summary>
+There are no comments for Property PostalCode in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.Country">
+	<summary>
+There are no comments for Property Country in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.Phone">
+	<summary>
+There are no comments for Property Phone in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.Fax">
+	<summary>
+There are no comments for Property Fax in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Customers.Orders">
+	<summary>
+There are no comments for Orders in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Customers">
+	<summary>
+There are no comments for NorthwindModel.Customers in the schema.
+</summary>
+	<KeyProperties>
+CustomerID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Employees.CreateEmployees(System.Int32,System.String,System.String)">
+	<summary>
+Create a new Employees object.
+</summary>
+	<param name="employeeID">Initial value of EmployeeID.</param>
+	<param name="lastName">Initial value of LastName.</param>
+	<param name="firstName">Initial value of FirstName.</param>
+</member><member name="P:testeLINQtoENTITIES.Employees.EmployeeID">
+	<summary>
+There are no comments for Property EmployeeID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.LastName">
+	<summary>
+There are no comments for Property LastName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.FirstName">
+	<summary>
+There are no comments for Property FirstName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Title">
+	<summary>
+There are no comments for Property Title in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.TitleOfCourtesy">
+	<summary>
+There are no comments for Property TitleOfCourtesy in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.BirthDate">
+	<summary>
+There are no comments for Property BirthDate in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.HireDate">
+	<summary>
+There are no comments for Property HireDate in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Address">
+	<summary>
+There are no comments for Property Address in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.City">
+	<summary>
+There are no comments for Property City in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Region">
+	<summary>
+There are no comments for Property Region in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.PostalCode">
+	<summary>
+There are no comments for Property PostalCode in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Country">
+	<summary>
+There are no comments for Property Country in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.HomePhone">
+	<summary>
+There are no comments for Property HomePhone in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Extension">
+	<summary>
+There are no comments for Property Extension in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Photo">
+	<summary>
+There are no comments for Property Photo in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Notes">
+	<summary>
+There are no comments for Property Notes in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.PhotoPath">
+	<summary>
+There are no comments for Property PhotoPath in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Employees1">
+	<summary>
+There are no comments for Employees1 in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Employees2">
+	<summary>
+There are no comments for Employees2 in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Employees2Reference">
+	<summary>
+There are no comments for Employees2 in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Employees.Orders">
+	<summary>
+There are no comments for Orders in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Employees">
+	<summary>
+There are no comments for NorthwindModel.Employees in the schema.
+</summary>
+	<KeyProperties>
+EmployeeID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Order_Details.CreateOrder_Details(System.Int32,System.Int32,System.Decimal,System.Int16,System.Single)">
+	<summary>
+Create a new Order_Details object.
+</summary>
+	<param name="orderID">Initial value of OrderID.</param>
+	<param name="productID">Initial value of ProductID.</param>
+	<param name="unitPrice">Initial value of UnitPrice.</param>
+	<param name="quantity">Initial value of Quantity.</param>
+	<param name="discount">Initial value of Discount.</param>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.OrderID">
+	<summary>
+There are no comments for Property OrderID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.ProductID">
+	<summary>
+There are no comments for Property ProductID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.UnitPrice">
+	<summary>
+There are no comments for Property UnitPrice in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.Quantity">
+	<summary>
+There are no comments for Property Quantity in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.Discount">
+	<summary>
+There are no comments for Property Discount in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.Orders">
+	<summary>
+There are no comments for Orders in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.OrdersReference">
+	<summary>
+There are no comments for Orders in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.Products">
+	<summary>
+There are no comments for Products in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Order_Details.ProductsReference">
+	<summary>
+There are no comments for Products in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Order_Details">
+	<summary>
+There are no comments for NorthwindModel.Order_Details in the schema.
+</summary>
+	<KeyProperties>
+OrderID
+ProductID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Orders.CreateOrders(System.Int32)">
+	<summary>
+Create a new Orders object.
+</summary>
+	<param name="orderID">Initial value of OrderID.</param>
+</member><member name="P:testeLINQtoENTITIES.Orders.OrderID">
+	<summary>
+There are no comments for Property OrderID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.OrderDate">
+	<summary>
+There are no comments for Property OrderDate in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.RequiredDate">
+	<summary>
+There are no comments for Property RequiredDate in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShippedDate">
+	<summary>
+There are no comments for Property ShippedDate in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.Freight">
+	<summary>
+There are no comments for Property Freight in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShipName">
+	<summary>
+There are no comments for Property ShipName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShipAddress">
+	<summary>
+There are no comments for Property ShipAddress in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShipCity">
+	<summary>
+There are no comments for Property ShipCity in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShipRegion">
+	<summary>
+There are no comments for Property ShipRegion in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShipPostalCode">
+	<summary>
+There are no comments for Property ShipPostalCode in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShipCountry">
+	<summary>
+There are no comments for Property ShipCountry in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.Customers">
+	<summary>
+There are no comments for Customers in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.CustomersReference">
+	<summary>
+There are no comments for Customers in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.Employees">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.EmployeesReference">
+	<summary>
+There are no comments for Employees in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.Order_Details">
+	<summary>
+There are no comments for Order_Details in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.Shippers">
+	<summary>
+There are no comments for Shippers in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Orders.ShippersReference">
+	<summary>
+There are no comments for Shippers in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Orders">
+	<summary>
+There are no comments for NorthwindModel.Orders in the schema.
+</summary>
+	<KeyProperties>
+OrderID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Products.CreateProducts(System.Int32,System.String,System.Boolean)">
+	<summary>
+Create a new Products object.
+</summary>
+	<param name="productID">Initial value of ProductID.</param>
+	<param name="productName">Initial value of ProductName.</param>
+	<param name="discontinued">Initial value of Discontinued.</param>
+</member><member name="P:testeLINQtoENTITIES.Products.ProductID">
+	<summary>
+There are no comments for Property ProductID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.ProductName">
+	<summary>
+There are no comments for Property ProductName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.QuantityPerUnit">
+	<summary>
+There are no comments for Property QuantityPerUnit in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.UnitPrice">
+	<summary>
+There are no comments for Property UnitPrice in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.UnitsInStock">
+	<summary>
+There are no comments for Property UnitsInStock in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.UnitsOnOrder">
+	<summary>
+There are no comments for Property UnitsOnOrder in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.ReorderLevel">
+	<summary>
+There are no comments for Property ReorderLevel in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.Discontinued">
+	<summary>
+There are no comments for Property Discontinued in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.Categories">
+	<summary>
+There are no comments for Categories in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.CategoriesReference">
+	<summary>
+There are no comments for Categories in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.Order_Details">
+	<summary>
+There are no comments for Order_Details in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.Suppliers">
+	<summary>
+There are no comments for Suppliers in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Products.SuppliersReference">
+	<summary>
+There are no comments for Suppliers in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Products">
+	<summary>
+There are no comments for NorthwindModel.Products in the schema.
+</summary>
+	<KeyProperties>
+ProductID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Region.CreateRegion(System.Int32,System.String)">
+	<summary>
+Create a new Region object.
+</summary>
+	<param name="regionID">Initial value of RegionID.</param>
+	<param name="regionDescription">Initial value of RegionDescription.</param>
+</member><member name="P:testeLINQtoENTITIES.Region.RegionID">
+	<summary>
+There are no comments for Property RegionID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Region.RegionDescription">
+	<summary>
+There are no comments for Property RegionDescription in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Region">
+	<summary>
+There are no comments for NorthwindModel.Region in the schema.
+</summary>
+	<KeyProperties>
+RegionID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Shippers.CreateShippers(System.Int32,System.String)">
+	<summary>
+Create a new Shippers object.
+</summary>
+	<param name="shipperID">Initial value of ShipperID.</param>
+	<param name="companyName">Initial value of CompanyName.</param>
+</member><member name="P:testeLINQtoENTITIES.Shippers.ShipperID">
+	<summary>
+There are no comments for Property ShipperID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Shippers.CompanyName">
+	<summary>
+There are no comments for Property CompanyName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Shippers.Phone">
+	<summary>
+There are no comments for Property Phone in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Shippers.Orders">
+	<summary>
+There are no comments for Orders in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Shippers">
+	<summary>
+There are no comments for NorthwindModel.Shippers in the schema.
+</summary>
+	<KeyProperties>
+ShipperID
+</KeyProperties>
+</member><member name="M:testeLINQtoENTITIES.Suppliers.CreateSuppliers(System.Int32,System.String)">
+	<summary>
+Create a new Suppliers object.
+</summary>
+	<param name="supplierID">Initial value of SupplierID.</param>
+	<param name="companyName">Initial value of CompanyName.</param>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.SupplierID">
+	<summary>
+There are no comments for Property SupplierID in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.CompanyName">
+	<summary>
+There are no comments for Property CompanyName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.ContactName">
+	<summary>
+There are no comments for Property ContactName in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.ContactTitle">
+	<summary>
+There are no comments for Property ContactTitle in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.Address">
+	<summary>
+There are no comments for Property Address in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.City">
+	<summary>
+There are no comments for Property City in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.Region">
+	<summary>
+There are no comments for Property Region in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.PostalCode">
+	<summary>
+There are no comments for Property PostalCode in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.Country">
+	<summary>
+There are no comments for Property Country in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.Phone">
+	<summary>
+There are no comments for Property Phone in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.Fax">
+	<summary>
+There are no comments for Property Fax in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.HomePage">
+	<summary>
+There are no comments for Property HomePage in the schema.
+</summary>
+</member><member name="P:testeLINQtoENTITIES.Suppliers.Products">
+	<summary>
+There are no comments for Products in the schema.
+</summary>
+</member><member name="T:testeLINQtoENTITIES.Suppliers">
+	<summary>
+There are no comments for NorthwindModel.Suppliers in the schema.
+</summary>
+	<KeyProperties>
+SupplierID
+</KeyProperties>
+</member>
+</members>
+</doc>

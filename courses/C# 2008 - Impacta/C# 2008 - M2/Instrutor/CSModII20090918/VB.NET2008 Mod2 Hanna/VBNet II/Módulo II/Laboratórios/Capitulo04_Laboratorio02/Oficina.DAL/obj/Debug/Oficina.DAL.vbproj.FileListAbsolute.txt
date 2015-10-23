@@ -1,0 +1,24 @@
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.DAL.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.DAL.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.DAL.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.Modelos.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.Modelos.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.Modelos.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.vbproj.GenerateResource.Cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Laboratorios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.DAL.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.DAL.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.DAL.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.Modelos.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.Modelos.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\bin\Debug\Oficina.Modelos.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.vbproj.GenerateResource.Cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.dll
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Laboratórios\Capitulo04_Laboratorio02\Oficina.DAL\obj\Debug\Oficina.DAL.pdb

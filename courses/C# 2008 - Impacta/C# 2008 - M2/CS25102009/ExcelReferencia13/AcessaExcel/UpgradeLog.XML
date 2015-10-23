@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AcessaExcel">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\AcessaExcel.suo">
+</Property><Property Name="Date" Value="domingo, 13 de setembro de 2009">
+</Property><Property Name="Time" Value="14:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AcessaExcel.sln" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AcessaExcel.suo" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel.suo">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\AcessaExcel.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\AcessaExcel.vbproj">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\Form1.vb" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\Form1.vb">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\Form1.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\My Project\Application.myapp" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\My Project\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\My Project\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\dmarques\Desktop\Excel\AcessaExcel\Backup\AcessaExcel\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\AcessaExcel.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AcessaExcel" Source="AcessaExcel\AcessaExcel.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AcessaExcel.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AcessaExcel.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AcessaExcel" Source="AcessaExcel\AcessaExcel.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

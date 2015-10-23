@@ -1,0 +1,20 @@
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\bin\Debug\exemploLINQ.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\bin\Debug\exemploLINQ.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\bin\Debug\exemploLINQ.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\obj\Debug\exemploLINQ.Resources.resources
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\obj\Debug\exemploLINQ.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\obj\Debug\exemploLINQ.exe
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\obj\Debug\exemploLINQ.xml
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\obj\Debug\exemploLINQ.pdb
+C:\Documents and Settings\cliente\Configurações locais\Dados de aplicativos\Temporary Projects\exemploLINQ\obj\Debug\exemploLINQ.exemploForm.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\obj\Debug\exemploLINQ.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\obj\Debug\exemploLINQ.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\obj\Debug\exemploLINQ.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\bin\Debug\exemploLINQ.exe
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\bin\Debug\exemploLINQ.pdb
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\bin\Debug\exemploLINQ.xml
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\obj\Debug\ResolveAssemblyReference.cache
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\obj\Debug\exemploLINQ.exemploForm.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\obj\Debug\exemploLINQ.Resources.resources
+E:\Impacta\Editora\VB Net\Materiais Versao 2008\Módulo II\Exemplos Apostila\exemploLINQ\exemploLINQ\obj\Debug\exemploLINQ.vbproj.GenerateResource.Cache
